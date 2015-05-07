@@ -1,46 +1,99 @@
 {
- "name": "Modulhandbuch HS Worms",
+ "name": "HsWorms",
  "children": [
   {
    "name": "Mobile Computing",
-   "children": [
+   "children":
+   [
     {
-     "name": "VL FooBar",
+     "name": "Mobile Application Development",
      "children": [
-      {"name": "VL FooBar", "value": 3938, "url": "http://google.com"},
-      {"name": "VL FooBar", "value": 743, "url": "http://google.com"}
+      {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
+      {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+      {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://campus.fh-worms.de/~keidel/"},
+      {"name": "Workload\n Palim Palam", "value": 4000}
      ]
     },
     {
-     "name": "VL FooBar",
+     "name": "Mobile Security",
      "children": [
-      {"name": "VL FooBarBaz", "value": 3416, "url": "http://google.com"},
-      {"name": "VL FooBarBaz", "value": 3416, "url": "http://google.com"},
-      {"name": "VL FooBarBaz", "value": 3416, "url": "http://google.com"},
-      {"name": "VL FooBarBaz", "value": 3416, "url": "http://google.com"},
-      {"name": "VL FooBarBaz", "value": 3416, "url": "http://google.com"},
-      {"name": "VL FooBarBaz", "value": 3416, "url": "http://google.com"}
+     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
+     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://google.com"},
+     {"name": "Workload", "value": 4000, "url": "http://google.com"}
      ]
     },
     {
-     "name": "VL FooBar",
+     "name": "Mobile Web",
      "children": [
-      {"name": "VL FooBarBaz", "value": 3416, "url": "http://google.com"}
+     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
+     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://google.com"},
+     {"name": "Workload", "value": 4000, "url": "http://google.com"}
      ]
     },
     {
-     "name": "VL Foo",
+     "name": "Mobile Usability",
      "children": [
-      {"name": "Baz", "value": 3416, "url": "http://google.com"},
-      {"name": "Baz", "value": 3416, "url": "http://google.com"},
-      {"name": "Baz", "value": 3416, "url": "http://google.com"}      
+     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
+     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Prof. Dr. König", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
+     {"name": "Workload\n Palim Palam", "value": 4000}
      ]
     },
     {
-     "name": "VL Bar",
+     "name": "Wissenschaftliches Arbeiten",
      "children": [
-      {"name": "VL Baz", "value": 3416, "url": "http://google.com"}
+     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
+     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Prof. Dr. Heinemann", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
+     {"name": "Workload\n Palim Palam", "value": 4000}
      ]
+    },
+    {
+     "name": "Projekt Systementwicklung",
+     "children": [
+     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
+     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Prof. Dr. Ruhland", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+     {"name": "Workload\n Palim Palam", "value": 4000}
+     ]
+    },
+    {
+     "name": "Wahlpflichtveranstaltungen",
+     "children": [
+     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
+     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://campus.fh-worms.de/~keidel/"},
+     {"name": "Workload\n Palim Palam", "value": 4000}
+     ]
+    },
+    {
+      "name": "Seminar 1",
+      "children": [
+      {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com" },
+      {"name": "ECTS", "value": 4000, "url": "http://google.com" },
+      {"name": "Dozent/Dozentin", "value": 4000, "url": "http://google.com" },
+      {"name": "Workload", "value": 4000, "url": "http://google.com" }      
+      ]
+    },
+    {
+      "name": "Seminar 2",
+      "children": [
+      {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://www.google.com"},
+      {"name": "ECTS", "value": 4000, "url": "http://www.google.com"},
+      {"name": "Dozent/Dozentin", "value": 4000, "url": "http://www.google.com"},
+      {"name": "Workload", "value": 4000, "url": "http://www.google.com"}
+      ]
+    },
+    {
+      "name": "Masterarbeit",
+      "children": [
+      {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://www.google.de"},
+      {"name": "ECTS", "value": 4000, "url": "http://www.google.de"},
+      {"name": "Dozent/Dozentin", "value": 4000, "url": "http://www.google.de"},      
+      {"name": "Workload", "value": 4000, "url": "http://www.google.de"}
+      ]
     }
    ]
   },
