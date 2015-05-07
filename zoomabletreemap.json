@@ -48,9 +48,13 @@
    "name": "Angewandte Informatik",
    "children": [
     {
-     "name": "VL BAZ",
+     "name": "Grundkompetenzen",
      "children": [
-      {"name": "Foo", "value": 3938, "url": "http://google.de"},
+      {
+	   "name": "SK1", 
+	   "children": [
+	   ]
+	  },
       {"name": "Foo", "value": 743, "url": "http://google.de"},
       {"name": "Foo", "value": 743, "url": "http://google.de"},
       {"name": "Foo", "value": 743, "url": "http://google.de"}
