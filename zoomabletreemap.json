@@ -104,13 +104,61 @@
      "name": "Grundkompetenzen",
      "children": [
       {
-	   "name": "SK1", 
+	   "name": "SK1 (Modul 1.4.1)", 
 	   "children": [
+	   {"name": "Selbst- u. Methodenkompetenz: Die Studierenden können sich selbst und andere nach dem aktiven Besuch dieses Seminars in ihrer bzw. deren Persönlichkeitsstruktur besser einschätzen. Sie sind sensibilisiert für das unterschiedliche Agieren und Reagieren von Menschen in verschiedenen Situationen. Überdies verfügen sie über effektive und effiziente Techniken des Zeit- bzw. Prioritäten- und Selbstmanagements unter Berücksichtigung des persönlichen Lerntyps. Sie haben die besonderen Eigenschaften und Herausforderungen des neuen Lebensabschnitts Studium erkannt und verfügen über geeignete Werkzeuge, diesen erfolgreich zu bewältigen. Neben diesen Aspekten der Selbstkompetenz sind sie in der Lage grundlegende (technische) Inhalte insbesondere der Informatik in angemessenem Stil in Wort und Schrift zu fassen und wissenschaftlich korrekt darzulegen sowie entsprechende Quellen einzusetzen. Dies befähigt sie vor allem dazu, entsprechende im Studium anzufertigende Texte wie Seminararbeiten, Referate und auch später die Bachelor Thesis anzufertigen.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=30"},
+	   {"name": "Prof. Dr. Heinemann", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
 	   ]
 	  },
-      {"name": "Foo", "value": 743, "url": "http://google.de"},
-      {"name": "Foo", "value": 743, "url": "http://google.de"},
-      {"name": "Foo", "value": 743, "url": "http://google.de"}
+      {
+	   "name": "N1 (Modul 1.3.1)", 
+	   "children": [
+	   {"name": "Netzwerk-Grundlagen: Grundlegendes Verständnis der Funktionsweise von Rechnernetzen; praktische Fähigkeiten in der Konfiguration von Netzknoten.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=25"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "HWG (Modul 1.1.2)", 
+	   "children": [
+	   {"name": "Hardware-Grundlagen: Grundlegendes Verständnis der Funktionsweise von Rechnernetzen; praktische Fähigkeiten in der Konfiguration von Netzknoten.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=10"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Zimmermann", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1662"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "Prog1 (Modul 1.2.1)", 
+	   "children": [
+	   {"name": "Prozedurale Programmierung: Vermittlung von Grundbegriffen des strukturierten Vorgehens, der Problemanalyse und des Lösungsaufbaus. Anhand der theoretischen Befassung mit den Sprachkonstruktionen einer geeigneten Programmiersprache, z.B. der Sprache C, lernen die Studierenden die Zusammenhänge der prozeduralen Programmierung kennen. In den Praxiskapiteln werden diese an konkreten Problemstellungen aus der Praxis angewendet.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "EInf (Modul 1.1.1)", 
+	   "children": [
+	   {"name": "Einführung in die Informatik: Hinreichende Fähigkeiten im Umgang mit Rechnern und Unix für die restlichen Veranstaltungen im ersten Semester.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=8"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "Mathe 1 (Modul 1.5.1)", 
+	   "children": [
+	   {"name": "Diskrete Mathematik: Kenntnis grundlegender Begriffe der Diskreten Mathematik; Umgang mit Rekursion, Graphen und Bäumen; Anwendung von Algorithmen auf Bäume; ", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=37"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Schall", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1652"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+
+      {"name": "Foo", "value": 50, "url": "http://google.de"}
      ]
     },
     {
