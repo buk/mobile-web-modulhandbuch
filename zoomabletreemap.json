@@ -104,16 +104,16 @@
      "name": "Grundkompetenzen",
      "children": [
       {
-	   "name": "SK1 (Modul 1.4.1)", 
+	   "name": "SK 1 (Modul 1.4.1)", 
 	   "children": [
 	   {"name": "Selbst- u. Methodenkompetenz: Die Studierenden können sich selbst und andere nach dem aktiven Besuch dieses Seminars in ihrer bzw. deren Persönlichkeitsstruktur besser einschätzen. Sie sind sensibilisiert für das unterschiedliche Agieren und Reagieren von Menschen in verschiedenen Situationen. Überdies verfügen sie über effektive und effiziente Techniken des Zeit- bzw. Prioritäten- und Selbstmanagements unter Berücksichtigung des persönlichen Lerntyps. Sie haben die besonderen Eigenschaften und Herausforderungen des neuen Lebensabschnitts Studium erkannt und verfügen über geeignete Werkzeuge, diesen erfolgreich zu bewältigen. Neben diesen Aspekten der Selbstkompetenz sind sie in der Lage grundlegende (technische) Inhalte insbesondere der Informatik in angemessenem Stil in Wort und Schrift zu fassen und wissenschaftlich korrekt darzulegen sowie entsprechende Quellen einzusetzen. Dies befähigt sie vor allem dazu, entsprechende im Studium anzufertigende Texte wie Seminararbeiten, Referate und auch später die Bachelor Thesis anzufertigen.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=30"},
-	   {"name": "Prof. Dr. Heinemann", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Heinemann", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
 	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
 	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
 	   ]
 	  },
       {
-	   "name": "N1 (Modul 1.3.1)", 
+	   "name": "N 1 (Modul 1.3.1)", 
 	   "children": [
 	   {"name": "Netzwerk-Grundlagen: Grundlegendes Verständnis der Funktionsweise von Rechnernetzen; praktische Fähigkeiten in der Konfiguration von Netzknoten.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=25"},
 	   {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
@@ -131,7 +131,7 @@
 	   ]
 	  },
 	  {
-	   "name": "Prog1 (Modul 1.2.1)", 
+	   "name": "Prog 1 (Modul 1.2.1)", 
 	   "children": [
 	   {"name": "Prozedurale Programmierung: Vermittlung von Grundbegriffen des strukturierten Vorgehens, der Problemanalyse und des Lösungsaufbaus. Anhand der theoretischen Befassung mit den Sprachkonstruktionen einer geeigneten Programmiersprache, z.B. der Sprache C, lernen die Studierenden die Zusammenhänge der prozeduralen Programmierung kennen. In den Praxiskapiteln werden diese an konkreten Problemstellungen aus der Praxis angewendet.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"},
 	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
@@ -157,38 +157,557 @@
 	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
 	   ]
 	  },
-
-      {"name": "Foo", "value": 50, "url": "http://google.de"}
-     ]
-    },
-    {
-     "name": "VL FOO",
-     "children": [
-      {"name": "Bar", "value": 3938, "url": "http://google.de"},
+	  {
+	   "name": "W 1 (Modul 1.3.3)", 
+	   "children": [
+	   {"name": "Auszeichnungssprachen: Aufbau von XML-Dokumenten; Umsetzung auch umfangreicherer Webseiten in HTML; Gestaltung mittels CSS; Kenntnis grundlegender Usability-Prinzipien", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=29"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
       {
-        "name": "Causal Complexity",
-        "children": [
-         {"name": "Causal Complexity and the Study of Politics", "value": 3938, "url": "http://google.de"},
-         {"name": "Political Irrelevance", "value": 743, "url": "http://google.de"},
-         {"name": "boolean3 package for R", "value": 743, "url": "http://google.de"}
-        ]
-      }
+	   "name": "N 2 (Modul 1.3.2)", 
+	   "children": [
+	   {"name": "Netzstrukturen: Aufbau und Betrieb eines gemischten LANs aus Ethernet- und WLAN-Komponenten (inkl. Konfiguration und Sicherheitsaspekten)", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=27"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "BS 1 (Modul 1.1.3)", 
+	   "children": [
+	   {"name": "Betriebssystem-Komponenten: Den Studierenden sollen die grundlegenden Design- und Applikationsprinzipien moderner Betriebssysteme wie UNIX, LINUX, OSX, Windows usw. aufgezeigt werden. In dem Modul sollen folgende Konzepte vermittelt werden: Basiskonzepte unterschiedlicher Betriebssystemarten; Prozesskonzepte von Betriebssystemen; Interprozesskommunikation; Systemnahe Programmierung; Interner Aufbau von Betriebssystemen", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=12"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "Prog 2 (Modul 1.2.2)", 
+	   "children": [
+	   {"name": "Objekte: Über eine systematische Einführung in die objektorientierte Programmierung lernen die Studierenden die Theorie (das Paradigma) sowie den Sprachumfang einer objektorientierten Programmiersprache, z.B. C++, in kompakter Form kennen. In den theoretischen Kapiteln werden die Sprachkonstruktionen vorgestellt, die in den Praxiskapiteln an konkreten Problemstellungen aus der Praxis von den Teilnehmernangewendet werden", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=16"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" wird dringend empfohlen", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+	   ]
+	  },
+	  {
+	   "name": "AlgoDS (Modul 1.2.3)", 
+	   "children": [
+	   {"name": "Algorithmen und Datenstrukturen: In dieser Lehrveranstaltung werden die grundlegenden Konzepte von Datenstrukturen und Algorithmen behandelt. Die Studierenden sollendie wichtigsten Datenstrukturen kennen und anwenden können wesentliche Such- und Sortierverfahren verstehen und anwenden können Iteration und Rekursion verstehen und anwenden könne", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=18"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruppert", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1650"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"Mathe 1 (Modul 1.5.1)\" wird dringend empfohlen", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+	   ]
+	  },
+	  {
+	   "name": "Mathe 2 (Modul 1.5.2)", 
+	   "children": [
+	   {"name": "Wahrscheinlichkeitsrechnung u. Statistik: Entwicklung des Verständnisses von statistischen Verfahrensweisen insbesondere mit informationstechnischen Techniken für die Bestimmung von statistischen Kennwerten, grafische Darstellung und Interpretation von Daten.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=39"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Binder-Hobbach", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1565"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "SK 2 (Modul 1.4.2)", 
+	   "children": [
+	   {"name": "Kommunikation und Präsentation: Die Studierenden werden in die Lage versetzt, grundlegende rhetorische und (sprach-)logische Fertigkeiten in diversen kommunikativen Situationen einzusetzen. Sie sind nach Besuch dieses Moduls in der Lage, sowohl eine freie Rede, als auch eine Präsentation unter Zuhilfenahme geeigneter Hilfsmittel wie z.B. PowerPoint, Flipchart und Moderationswand zu halten. Hierbei verfügen die Studierenden im Anschluss an das Seminar insbesondere über die Fähigkeit, fachliche Inhalte vor Publikum klar und zielgruppenorientiert zu visualisieren, sprachlich darzulegen und entsprechende Diskussionen moderierend zu leiten.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=32"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Heinemann", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "Testen (Modul 1.2.4)", 
+	   "children": [
+	   {"name": "Testen: Erwerb von Grundkenntnissen und Techniken zum Testen von Softwaresystemen und zur Qualitätssicherung; praktische Fähigkeit zur Implementierung von Unit- und Acceptence-Tests", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=20"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+	   ]
+	  },
+	  {
+	   "name": "DB (Modul 1.2.6)", 
+	   "children": [
+	   {"name": "Datenbanken: Die Studierenden sollen Datenbanktechnologie im betrieblichen Einsatz sicher handhaben können.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=23"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Schwinn", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1654"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "SE 1 (Modul 1.2.5)", 
+	   "children": [
+	   {"name": "SW-Engineering 1: Die Studierenden sollen einen groben Überblick über methodische Software-Entwicklung erhalten und vertieft semantische Modellierungsmethoden erlernen und im begleitenden Praktikum anwenden können. Dazu werden Grundkenntnisse und Fähigkeiten vermittelt: Kenntnisse der Vorgehensweisen, Grundkonzepte des Objekt-orientierten Modellierens, Modellieren mit der UML.", "value": 3000, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=22"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Schwinn", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1654"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=16"}
+	   ]
+	  }
      ]
     },
-    {
-     "name": "Seminar 2",
+	{
+	 "name": "Anwendungen",
+      "children": [
+       {
+	   "name": "W 2 (Modul 2.1)", 
+	   "children": [
+	   {"name": "Serverseitige Anwendungen: Kenntnis einer OO-Skriptsprache; praktische Entwicklung kleinerer und größerer Web-Anwendungen; Sicherheitsaspekte von Web-Anwendungen", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=41"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"W 1 (Modul 1.3.3)\" wird dringend empfohlen", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+	   ]
+	  },
+	  {
+	   "name": "RE (Modul 2.4)", 
+	   "children": [
+	   {"name": "Requirements Engineering: Tieferes Verständnis von Anforderungen an Software-Systeme (insbesondere Anwendungssysteme); Verständnis des Requirements Managements", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=46"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Schwinn", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1654"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "W 3 (Modul 2.2)", 
+	   "children": [
+	   {"name": "Clientseitige Anwendungen: Beherrschung der typischen Operationen auf DOM Strukturen", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=43"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=16"}
+	   ]
+	  },
+	  {
+	   "name": "MoA (Modul 2.3)", 
+	   "children": [
+	   {"name": "Entwicklung mobiler Anwendungen: Die Studierenden kennen die besonderen Herausforderungen und Probleme bei der Entwicklung mobiler Anwendungen. Sie verfügen über die Kenntnisse und Methodik, eine überschaubare mobile Anwendung zu konzipieren und für eine beispielhafte mobilen Plattform zu implementieren.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=45"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Keidel", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1572"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "name": "Wahlmodule (4 Module)",
+      "children": [
+       {
+	   "name": "ITR (Modul 4.1)", 
+	   "children": [
+	   {"name": "IT-Recht: Die Studierenden kennen und verstehen die Grundlagen unseres Rechtssystems sowie die wichtigsten gesetzlichen Regelungen, mit denen „IT-ler“ bewusst oder unbewusst in der täglichen Praxis (insbesondere auch Internet) in Kontakt kommen. Sie können diese Regelungen an einfachen Fallbeispielen anwenden. Die Studierenden werden befähigt zu entscheiden, bei welchen Problemen die Hinzuziehung eines Rechtsbeistands angeraten ist.", "value": 16, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=86"},
+	   {"name": "Modulverantwortliche Person: N. N.", "value": 4, "url": ""},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "KIS (Modul 4.2)", 
+	   "children": [
+	   {"name": "Klinische Informationssysteme: Kenntnis der Zusammenhänge der Informationstechnologie im Gesundheitswesen, speziell in Krankenhäusern. Begreifen der Bedeutung von Interoperabilität zwischen komplexen heterogenen Anwendungssystemen. Abgrenzung  zu Medizintechnik und administrativen Systeme. Vernetzung spezifischer Informationssysteme der Stationen und Funktionsabteilungen. Kenntnis der besonderen Anforderungen an Funktion, Stabilität und Verlässlichkeit im medizinischen Umfeld", "value": 14, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=88"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 4, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "CSS (Modul 4.3)", 
+	   "children": [
+	   {"name": "CSS basierte Layout: Die Studierenden verfügen über sehr gute Kenntnisse von CSS und sind in der Lage, komplexe Layouts für Websites und Webanwendungen zu realisieren unter Berücksichtigung der Anforderungen von Smartphones.", "value": 14, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=90"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 4, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"W 1 (Modul 1.3.3)\" wird dringend empfohlen", "value": 2, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=29"}
+	   ]
+	  },
+	  {
+	   "name": "PraPro (Modul 4.4)", 
+	   "children": [
+	   {"name": "Praktische Projektarbeit: Weitgehend eigenständige Durchführung eines Projektes mit konkreten Zielvorgaben.", "value": 14, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=92"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 4, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: empfohlene Vorkenntnisse werden mit der Projektbeschreibung vermerkt", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "Lang (Modul 4.5)", 
+	   "children": [
+	   {"name": "Fremdsprache: Erlernen des Verständnisses einer Fremdsprache mit dem Ziel, Fachtexte lesen und verstehen zu können, Fachtexte verfassen zu können (z.B. schriftliche Konversation) sowie fachbezogene Gespräche führen zu können. Kennenlernen von Grundlagen der kulturellen Hintergründe der Nationen, in denen die Zielsprache gesprochen wird.", "value": 14, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=93"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 4, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: Die Zielsprache darf nicht Muttersprache des Teilnehmers sein.", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "ABWL (Modul 4.6)", 
+	   "children": [
+	   {"name": "Einführung in die Allgemeine Betriebswirtschaftslehre: Die Studierenden lernen die grundlegenden wirtschaftlichen Zusammenhänge und Begriffe der Betriebswirtschaftslehre kennen. Sie können Unternehmen, deren Umwelt und deren Ziele beschreiben, und erlernen Funktionen, Elemente und Strukturen von Managementsystemen. Die Studierenden lernen institutionelle Grundlagen der BWL kennen.", "value": 14, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=95"},
+	   {"name": "Modulverantwortliche Person: Import Touristik", "value": 4, "url": ""},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "UMod (Modul 4.7)", 
+	   "children": [
+	   {"name": "Unternehmensmodellierung: Die Studierenden verfügen nach Besuch dieser Veranstaltung über einen vertieften Einblick in wesentliche Themenstellungen der Betriebswirtschaftslehre, insbesondere relevanter Funktionsbereiche eines Unternehmens. Sie können die Rolle der Informations- und Kommunikationstechnologien (IuK) für sowohl die Aufbau- als auch Ablauforganisation eines Unternehmens erfassen und relevante Tätigkeitsfelder in diesem Umfeld aus Sicht der IuK benennen. Sie haben Modellierung als wichtige Methodenkompetenz ihre Faches kennen gelernt und sind in der Lage, Geschäftsprozesse in einem Unternehmen zu erfassen. Sie haben die wichtige Kompetenz der zielgerichteten Abstraktion entwickelt und sind sich ihrer tragenden Rolle als „Sprachbrückenbauer“ zwischen IuK-Experten und Vertretern der Fachabteilungen im Unternehmen bewusst.", "value": 14, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=97"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Heinemann", "value": 4, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "Emb (Modul 4.8)", 
+	   "children": [
+	   {"name": "Embedded Systems: Fähigkeit, die erlernten Methoden der Software-Entwicklung auf die besonderen Randbedingungen von Embedded Systems anzuwenden; Planung, Konfiguration und Inbetriebnahme von Embedded Systems.", "value": 14, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=99"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Schall", "value": 4, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1652"},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"HWG (Modul 1.1.2)\", \"BS 1 (Modul 1.1.3)\" und \"Prog 1 (Modul 1.2.1)\" wird dringend empfohlen", "value": 2, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=10"}
+	   ]
+	  },
+	  {
+	   "name": "Mess (Modul 4.9)", 
+	   "children": [
+	   {"name": "Messtechnik: Kenntnisse und Fertigkeiten im Bereich der Messtechnik erlangen. Messfehler berechnen und deren Auswirkung bewerten. Verschiedene Mess-, Prüf- und Sensorsysteme kennen lernen. Simulationsprogramme bedienen und anwenden können. Einsetzen rechnergestützter Messdatenerfassung, Auswertung der gewonnen Daten und die grafische Datenaufbereitung mit Excel. Grundkenntnisse in VBA erwerben.", "value": 14, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=101"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Zimmermann", "value": 4, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1662"},
+	   {"name": "5 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "name": "Qualifikationsschwerpunkt (6 Module des gewählten Schwerpunktes)",
      "children": [
-      {"name": "boolean3 package for R", "value": 3938, "url": "http://google.de"}
-     ]
-    },
-    {
-     "name": "Seminar",
-     "children": [
-      {"name": "PS 4781", "value": 3938, "url": "http://google.de"},
-      {"name": "PS 867", "value": 743, "url": "http://google.de"},
-      {"name": "PS 846", "value": 743, "url": "http://google.de"}
-     ]
-    }
+	  {
+	    "name": "Software-Konstruktion",
+		"children": [
+		{
+		 "name": "KoPr (Modul 3.1.1)", 
+		 "children": [
+		 {"name": "Komponenten-Programmierung: Bei der Erstellung von Anwendungsprogrammen mit modernen Entwicklungsumgebungen und ihren Frameworks nimmt die Verwendung von vorgefertigten Komponenten, Komponentensets und APIs große Bedeutung ein. Oftmals ist das Finden und Einbauen der geeigneten Komponenten ähnlich komplex wie das Schreiben eigenen Codes. Die Teilnehmer lernen die Grundlagen von Mehrschicht-Architekturen kennen, Komponentensets zu recherchieren, auszuwählen und anzuwenden, dabei Kombinationen von Komponentensets und Frameworks auf Durchgängigkeit und Kompatibilität zu prüfen sowie mit Update- und Upgrade-Strategien umzugehen", "value": 8, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=48"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "SE 2 (Modul 3.1.2)", 
+		 "children": [
+		 {"name": "Software-Engineering 2: In Ergänzung zum Modul Software Engineering (Modul 1.2.5) sollen die Studierenden alternative und ergänzende Methoden zu UML verstehen und werten lernen. Der überwiegende Teil der Veranstaltung betrifft die Durchführung eines Projektpraktikums mit einer komplexeren Aufgabenstellung (Modellierung mit UML, Design und teilweise Implementierung); Themen können dabei auch von externer Seite gestellt werden", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=50"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Schwinn", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1654"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"SE 1 (Modul 1.2.5)\" und \"DB (Modul 1.2.6)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=22"}
+		 ]
+		},
+		{
+		 "name": "Use (Modul 3.1.3)", 
+		 "children": [
+		 {"name": "Usability: Die Studierenden kennen Kriterien für die ästhetische und ergonomische Gestaltung (nicht nur graphischer) Benutzungsschnittstellen (GUI) und können diese zur Entwicklung und Optimierung von Benutzungsschnittstellen und Anwendungen einsetzen.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=52"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. König", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "Prog 3 (Modul 3.1.4)", 
+		 "children": [
+		 {"name": "Graphische Benutzeroberflächen: Das Entwickeln und Implementieren Graphischer Benutzerschnittstellen soll erlernt werden. Die Implementierung soll mittels gängiger IDEs (VStudio, Eclipse) und deren GUI Bibliotheken erfolgen. Eigene Elemente und Bibliotheken sollen entwickelt werden.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=54"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Schall, Prof. Dr. W. König", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1652"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen, \"Use (Modul 3.1.3)\" sollte vorher oder gleichzeitigt belegt werden", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+		 ]
+		},
+		{
+		 "name": "TInf (Modul 3.1.5)", 
+		 "children": [
+		 {"name": "Theoretische Informatik: Die Studierenden sollen die theoretischen Konzepte in der Praxis anwenden können.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=56"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Ruppert", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1650"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+		 ]
+		},
+		{
+		 "name": "GDV 1 (Modul 3.1.6)", 
+		 "children": [
+		 {"name": "Bildverarbeitung: Die Erfassung (mittels Scanner oder Kamera), Verarbeitung und Auswertung von Rastergrafiken (Bitmaps) kennen lernen und verstehen. Rasterbilder selbst mit visuellen Programmiersprachen (z.B. C#) weiter verarbeiten. Ein Bildverarbeitungs-Programmierprojekt in der Gruppe planen, durchführen und präsentiere", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=57"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Zimmermann", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1662"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 3 (Modul 3.1.4)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=54"}
+		 ]
+		},
+		{
+		 "name": "GDV 2 (Modul 3.1.7)", 
+		 "children": [
+		 {"name": "Computergrafik: Die Erstellung, Darstellung und Handhabung von 2D und 3D - Vektorgrafiksystemen verstehen, anwenden und programmieren können z.B. mit XNA", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=59"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Schall", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1652"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+		 ]
+		},
+		{
+		 "name": "MuK (Modul 3.1.8)", 
+		 "children": [
+		 {"name": "Mustererkennung: Die vorgestellten Konzepte sind sehr leistungsfähig und geeignet, eine Reihe von Anwendungsaufgaben zu lösen. Die Studierenden sollen Anwendungen mit neuronalen Netzen und der Evolutionsstrategie erstellen können und entsprechende Anwendungen analysieren können", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=61"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Ruppert", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1650"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Mathe 1 (Modul 1.5.1)\" und \"Mathe 2 (Modul 1.5.2)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=37"}
+		 ]
+		},
+		{
+		 "name": "W 4 (Modul 3.3.7)", 
+		 "children": [
+		 {"name": "SOA/Web-Service: Verständnis und Entwicklung heterogener, lose gekoppelter Architekturen.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=78"},
+		 {"name": "Modulverantwortliche Person: N. N.", "value": 2, "url": ""},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		}
+	   ]
+	  },
+	  {
+	    "name": "Medieninformatik",
+		"children": [
+		{
+		 "name": "Use (Modul 3.1.3)", 
+		 "children": [
+		 {"name": "Usability: Die Studierenden kennen Kriterien für die ästhetische und ergonomische Gestaltung (nicht nur graphischer) Benutzungsschnittstellen (GUI) und können diese zur Entwicklung und Optimierung von Benutzungsschnittstellen und Anwendungen einsetzen.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=52"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. König", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "Prog 3 (Modul 3.1.4)", 
+		 "children": [
+		 {"name": "Graphische Benutzeroberflächen: Das Entwickeln und Implementieren Graphischer Benutzerschnittstellen soll erlernt werden. Die Implementierung soll mittels gängiger IDEs (VStudio, Eclipse) und deren GUI Bibliotheken erfolgen. Eigene Elemente und Bibliotheken sollen entwickelt werden.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=54"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Schall, Prof. Dr. W. König", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1652"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen, \"Use (Modul 3.1.3)\" sollte vorher oder gleichzeitigt belegt werden", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+		 ]
+		},
+		{
+		 "name": "GDV 1 (Modul 3.1.6)", 
+		 "children": [
+		 {"name": "Bildverarbeitung: Die Erfassung (mittels Scanner oder Kamera), Verarbeitung und Auswertung von Rastergrafiken (Bitmaps) kennen lernen und verstehen. Rasterbilder selbst mit visuellen Programmiersprachen (z.B. C#) weiter verarbeiten. Ein Bildverarbeitungs-Programmierprojekt in der Gruppe planen, durchführen und präsentiere", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=57"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Zimmermann", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1662"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 3 (Modul 3.1.4)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=54"}
+		 ]
+		},
+		{
+		 "name": "GDV 2 (Modul 3.1.7)", 
+		 "children": [
+		 {"name": "Computergrafik: Die Erstellung, Darstellung und Handhabung von 2D und 3D - Vektorgrafiksystemen verstehen, anwenden und programmieren können z.B. mit XNA", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=59"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Schall", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1652"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+		 ]
+		},
+		{
+		 "name": "IAD (Modul 3.2.1)", 
+		 "children": [
+		 {"name": "Interaction Design: Kenntnisse der wichtigsten Schnittstellen zwischen Mediendesign und Medieninformatik: Grundlagen der Wahrnehmung und Gestaltung, Konzeption und Methodik des Entwurfsprozesses, besonders bezogen auf die Hypermedien und der Mensch-Maschinen-Interaktion; die Studierenden bekommen Kenntnisse der Medienpraxis und der mediengerechten Ausarbeitung, sodass sie das Verhältnis von Informatik, Design und Unternehmenskommunikation heute kennenlernen.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=63"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Schall", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1652"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "EZS (Modul 3.2.2)", 
+		 "children": [
+		 {"name": "Echtzeitsysteme: Die Studenten sollen die Grundlagen von Echtzeitsystemen beherrschen und diese im konkreten Fall anwenden können.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=65"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Ruppert", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1650"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 1 (Modul 1.2.1)\" und \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=14"}
+		 ]
+		},
+		{
+		 "name": "AVP (Modul 3.2.3)", 
+		 "children": [
+		 {"name": "Audio-visuelle Produktion: Gestaltung audio-visueller Produktionen (Videoproduktionen) und die Anwendung der hierzu notwendigen Techniken.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=67"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "3D (Modul 3.2.4)", 
+		 "children": [
+		 {"name": "3D-Modellierung: Die Studierenden kennen die grundlegenden Methoden von Modellierungs- und Animationstechniken sowie die Vorgehensweisen bei Objekt- und Charakteranimation. Sie können diese Techniken an einem beispielhaften Modellierungssystem für einfache Animationssequenzen umsetzen.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=68"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "N 5 (Modul 3.3.6)", 
+		 "children": [
+		 {"name": "Network Technologies: Installation und Betrieb Ipv6 basierter Rechnernetze.", "value": 7, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=76"},
+	     {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"N 1 (Modul 1.3.1)\", \"N 2 (Modul 1.3.2)\" und \"N 3 (Modul 3.3.4)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=25"}
+		 ]
+		}
+	   ]
+	  },
+	  {
+	    "name": "Cloud u. Internet",
+		"children": [
+		{
+		 "name": "Sy 1 (Modul 3.3.1)", 
+		 "children": [
+		 {"name": "Storage Management: Profunde Kenntnisse und Fähigkeiten zur professionellen Verwaltung von Datenbeständen", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=69"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "Sy 2 (Modul 3.3.2)", 
+		 "children": [
+		 {"name": "Skript-Programmierung: Sichere Entwicklung von Skripten mittleren Umfangs, insbesondere im Bereich der Rechner- und Netzwerk-Administration.", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=71"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "Sy 3 (Modul 3.3.3)", 
+		 "children": [
+		 {"name": "Nutzer- und Systemverwaltung: Kenntnisse und Fähigkeiten zur Installation und Konfiguration eines Rechnerpools bestehend aus heterogenen Servern und Client-Systemen", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=73"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "N 3 (Modul 3.3.4)", 
+		 "children": [
+		 {"name": "Internet-Routing: Erwerb der Grundkenntnisse zur Installation und Betrieb  von IP-basierten Rechnernetzen mit dynamischem Routing", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=74"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "N 4 (Modul 3.3.5)", 
+		 "children": [
+		 {"name": "Network Security: Verständnis typischer Sicherheitsrisiken und Angriffsszenarien beim Einsatz kabelgebundener und kabelloser LANs; Fähigkeit zur Analyse der Netzwerksicherheit und Vorbeugung von Angriffen", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=75"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "N 5 (Modul 3.3.6)", 
+		 "children": [
+		 {"name": "Network Technologies: Installation und Betrieb Ipv6 basierter Rechnernetze.", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=76"},
+	     {"name": "Modulverantwortliche Person: Prof. Dr. Döringer", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1566"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"N 1 (Modul 1.3.1)\", \"N 2 (Modul 1.3.2)\" und \"N 3 (Modul 3.3.4)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=25"}
+		 ]
+		},
+		{
+		 "name": "W 4 (Modul 3.3.7)", 
+		 "children": [
+		 {"name": "SOA/Web-Service: Verständnis und Entwicklung heterogener, lose gekoppelter Architekturen.", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=78"},
+		 {"name": "Modulverantwortliche Person: N. N.", "value": 2, "url": ""},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "W 5 (Modul 3.3.8)", 
+		 "children": [
+		 {"name": "XSLT/Schemata: Erlernen von Schemasprachen und Validierung von XML Dokumenten; Transformation von XML Dokumenten in diverse Zielformate mittels XSLT und XSL-FO.", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=80"},
+		 {"name": "Modulverantwortliche Person: N. N.", "value": 2, "url": ""},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "Krypt (Modul 3.3.9)", 
+		 "children": [
+		 {"name": "Kryptographie: Kenntnis, grundlegendes Verständnis und Fähigkeit zur Anwendung typischer kryptographischer Verfahren.", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=82"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: keine", "value": 1, "url": ""}
+		 ]
+		},
+		{
+		 "name": "Perf (Modul 3.3.10)", 
+		 "children": [
+		 {"name": "Network Performance: Grundlegendes Verständnis der Funktionsweise des TCP/IP Protokolls in Abgrenzung zu anderen Protokollarchitekturen Design der Dienstgüte in Rechnernetzen Fehlerverfolgung- und Behebung; Performance- und Durchsatzbetrachtungen Verständnis für Filter- und Sicherheitstechniken.", "value": 6, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=83"},
+		 {"name": "Modulverantwortliche Person: Prof. Dr. Massar", "value": 2, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1646"},
+		 {"name": "5 ECTS-Credits", "value": 1, "url": ""},
+		 {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"N 1 (Modul 1.3.1)\", \"N 2 (Modul 1.3.2)\" und \"N 3 (Modul 3.3.4)\" wird dringend empfohlen", "value": 1, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=25"}
+		 ]
+		}
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "name": "Projektmanagement / Teamorientiertes Projekt",
+      "children": [
+       {
+	   "name": "SK 3 (Modul 1.4.3)", 
+	   "children": [
+	   {"name": "Projektmanagement: Projektmanagement prägt heutzutage die Arbeit nahezu aller Branchen und insbesondere auch die des IT-Sektors. Aus diesem Grund sind die Studierenden nach dem Besuch und der aktiven Teilnahme an diesem Seminar in der Lage, sowohl den Begriff Projektmanagement allgemein ebenso wie (IT-)fachspezifisch einzuordnen. Sie kennen wesentliche Funktionen und Aufgaben des Projektmanagements an sich sowie Aufgaben der Projektleitung. Des Weiteren verfügen sie über einschlägige Kenntnisse des Projektaufbau und -ablaufs, der Projektorganisation und können Methoden und Werkzeuge der Planung von Projekten und des Projekt-Controlling (Bezug auf die Projektabwicklung) zielgerichtet einsetzen. Überdies haben die Studierenden Grundlagen der Teamarbeit in Theorie und Praxis kennen gelernt. Dies betrifft sowohl die Kommunikation im Team als auch das Auftreten möglicher Konflikte in der Projektarbeit.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=34"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Heinemann, Prof. Dr. Binder-Hobbach", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
+	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 5, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "SK 4 (Modul 1.4.4)", 
+	   "children": [
+	   {"name": "Teamorientiertes Projekt: Fähigkeit, eine größere Anwendung in selbstständigen Teams zu entwickeln, als Vorbereitung zu eigener Projektarbeit in Praxisprojekt und Bachelorarbei", "value": 60, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=36"},
+	   {"name": "Modulverantwortliche Person: alle Lehrenden des Studiengangs", "value": 20, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html"},
+	   {"name": "10 ECTS-Credits", "value": 10, "url": ""},
+	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an allen Modulen des 1.-5. Semesters sowie an \"SK 3 (Modul 1.4.3)\" wird dringend empfohlen", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=6"}
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "name": "Praxis- oder Auslandssemester (bei 7-semestrigem Bachelor)",
+      "children": [
+       {
+	   "name": "Prx (Modul 5.1)", 
+	   "children": [
+	   {"name": "Praxissemester: Professionelle Anwendung der im bisherigen Studium erworbenen Kenntnisse und Fähigkeiten in der Praxis.", "value": 90, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=103"},
+	   {"name": "Modulverantwortliche Person: Dozentinnen und Dozenten des Studiengangs", "value": 15, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html"},
+	   {"name": "15/30 ECTS-Credits (Das Praxissemester kann optional in zwei Abschnitten mit je 15 ECTS-Credits absolviert werden.)", "value": 15, "url": ""},
+	   {"name": "Voraussetzungen: Bestandene Modulprüfungen im Umfang von 120 Credits (entspricht den Lehrveranstaltungen aus 4 Semestern) + Die Arbeitsschwerpunkte des Praxissemesters müssen vor Beginn mit einer betreuenden Lehrperson vereinbart werden.", "value": 30, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "Aus (Modul 5.2)", 
+	   "children": [
+	   {"name": "Auslandssemester: Studienaufenthalt im Ausland: Fachbezogenes Studium im Umfang von 30 ECTS Punkten.", "value": 90, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=105"},
+	   {"name": "Modulverantwortliche Person: Dozentinnen und Dozenten des Studiengangs", "value": 15, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html"},
+	   {"name": "15/30 ECTS-Credits (Das Auslandssemester kann optional in zwei Abschnitten mit je 15 ECTS-Credits absolviert werden.)", "value": 15, "url": ""},
+	   {"name": "Voraussetzungen: Bestandene Modulprüfungen im Umfang von 120 Credits (entspricht den Lehrveranstaltungen aus 4 Semestern) + Die geplanten Veranstaltungen des Auslandssemesters müssen vor Beginn mit einer betreuenden Lehrperson der HS Worms in einem Learning Agreement vereinbart werden.", "value": 30, "url": ""}
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "name": "Bachelor-Thesis + Kolloquium",
+      "children": [
+       {
+	   "name": "BT (Modul 6)", 
+	   "children": [
+	   {"name": "Bachelor-Thesis: Professionelle und eigenständige Anwendung der im bisherigen Studium erworbenen Kenntnisse und Fähigkeiten in einer konkreten praktischen Aufgabenstellung und deren wissenschaftlich fundierte Dokumentation.", "value": 90, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=106"},
+	   {"name": "Modulverantwortliche Person: Dozentinnen und Dozenten des Studiengangs", "value": 15, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html"},
+	   {"name": "12 ECTS-Credits (Bachelorarbeit) + 3 ECTS-Credits (Kolloquium)", "value": 15, "url": ""},
+	   {"name": "Voraussetzungen: Bestandene Modulprüfungen im Umfang von 150 Credits (entspricht den Lehrveranstaltungen aus 5 Semestern) + Das Thema muss vor Beginn mit einer betreuenden Lehrperson vereinbart werden. Die Modalitäten zur Vergabe der Aufgabenstellung sind in der Prüfungsordnung geregelt.", "value": 30, "url": ""}
+	   ]
+	  }
+	 ]
+	}
    ]
   }
  ]
