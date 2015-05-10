@@ -8,55 +8,55 @@
     {
      "name": "Mobile Application Development",
      "children": [
-      {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
-      {"name": "ECTS", "value": 4000, "url": "http://google.com"},
-      {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://campus.fh-worms.de/~keidel/"},
-      {"name": "Workload\n Palim Palam", "value": 4000}
+      {"name": "Die Studierenden werden in die Lage versetzt, Grundprinzipien der mobilen Anwendungsentwicklung zu verstehen und darauf aufbauend Aufgaben in unvertrauten Fachdomänen zu übernehmen. Darüber hinaus lernen sie eigenständig fundierte Entscheidungen bei der Lösung von anspruchsvollen anwendungs- bzw. wissenschaftich orientierten Projekten zu fällen. Dabei werden typische Grundprobleme wie Persistenz, Lebenszyklen, Kommunikation, Nebenläufigkeit, Sensorik, Location Based Services, Tests, Metriken, Debugging und begrenzte Ressourcen gelöst. Ferner werden einschlägige Design Pattern erlernt und deren Anwendung vermittelt. Die Studierenden erlernen dabei ihre eigenständigen Entscheidungen bei der Problemlösung klar zu begründen und Fachleuten gegenüber zu verteidigen.", "value": 4000, "url": "http://google.com"},
+      {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
+      {"name": "Modulverantwortlicher: Prof. Dr. Keidel", "value": 4000, "url": "http://campus.fh-worms.de/~keidel/"},
+      {"name": "Zugangsvoraussetzungem: keine", "value": 4000}
      ]
     },
     {
      "name": "Mobile Security",
      "children": [
-     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
-     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Die Studierenden erlernen ein grundlegendes Verständnis für die vielfältigen Problemstellungen des Fachgebietes Mobile Security. Sie sollen nach erfolgreichem Besuch der Veranstaltung in der Lage sein, die Datensicherheit von mobilen Anwendungen und Systemen einschätzen zu können. Die Kenntnis der unterschiedlichen Technologien soll die Teilnehmer dabei befähigen, ein geeignetes Sicherheitskonzept zu erarbeiten, Schwachstellen zu erkennen und zu diesen die entsprechen- den Gegenmaßnahmen zu ergreifen. Das Sicherheitskonzept soll dabei für potentielle Nutzer verständlich sein und einer kritischen Revision von Fachvertretern standhalten.", "value": 4000, "url": "http://google.com"},
+     {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
      {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://google.com"},
-     {"name": "Workload", "value": 4000, "url": "http://google.com"}
+     {"name": "Zugangsvoraussetzungen: Gute Kenntnisse im Bereich der Grundlagen der Informatik, Hardware, Netzwerke und Systemadministration. Gutes Verständnis für mathematische Phänomene, wie sie im Zusammenhang mit Verschlüsselungstechnologien und Zertifikaten vorkommen. Gute Kenntnisse bei der Anwendung einer objektorientierten Programmiersprache und gute Kenntnisse beim Einsatz einer Entwicklungsumgebung. Gute Kenntnisse der englischen Sprache.", "value": 4000, "url": "http://google.com"}
      ]
     },
     {
      "name": "Mobile Web",
      "children": [
-     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
-     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
-     {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://google.com"},
+     {"name": "Die Studierenden werden in die Lage versetzt, Web-Benutzungsschnittstellen speziell an mobile Browser anzupassen. Sie lernen die Besonderheiten mobiler Endgeräte und deren Nutzung kennen und zu beurteilen. Die Kenntnis von APIs mobiler Browser ist dafür erforderlich.", "value": 4000, "url": "http://google.com"},
+     {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
+     {"name": "Prof. Dr. König", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
      {"name": "Workload", "value": 4000, "url": "http://google.com"}
      ]
     },
     {
      "name": "Mobile Usability",
      "children": [
-     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
-     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Die Studierenden werden in die Lage versetzt, mobile Applikationen mit systematischen Methoden auf Ihre Gebrauchstauglichkeit hin zu untersuchen, um fundierte Beurteilungen abgeben zu können, die wiederum in einer weiteren Entwicklungsiterationen zu einer besseren User Experience führen. Darüber hinaus lernen sie Verfahren zum Design von mobilen Nut- zungsschnittstellen kennen, sodass sie nach dem erfolgreichen Besuch der Veranstaltung mit einfachen Mitteln Prototypen erstellen können, die als Grundlage für Gebrauchstauglichkeitsuntersuchun- gen dienen und später zu einer voll funktionsfähigen mobilen Applikation implementiert werden.", "value": 4000, "url": "http://google.com"},
+     {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
      {"name": "Prof. Dr. König", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
-     {"name": "Workload\n Palim Palam", "value": 4000}
+     {"name": "Zugangsvoraussetzungen: keine", "value": 4000}
      ]
     },
     {
      "name": "Wissenschaftliches Arbeiten",
      "children": [
-     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
-     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Die Studierenden werden in die Lage versetzt, wissenschaftlich fundierte und korrekt erstellte Texte zu verfassen. Diesen voraus geht ein von den Teilnehmern bzw. Teilnehmerinnen zu vertiefendes Vermögen, wissenschaftlich zu denken, zu argumentieren und zu arbeiten. Die aktive Teilnahme an diesem Modul befähigt die Studierenden, qualitativ hochwertige und den Prinzipien wissenschaftlichen Vorgehens entsprechende Textprodukte, sowohl während des Masterstudiums als auch im Rahmen ihrer Abschlussarbeit (Master Thesis), zu erzeugen.", "value": 4000, "url": "http://google.com"},
+     {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
      {"name": "Prof. Dr. Heinemann", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
-     {"name": "Workload\n Palim Palam", "value": 4000}
+     {"name": "Zugangsvoraussetzungen: keine", "value": 4000}
      ]
     },
     {
      "name": "Projekt Systementwicklung",
      "children": [
-     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
-     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
+     {"name": "Gute Kenntnisse in objektorientiertem Design. Geläufigkeit in min- destens einer objektorientierten Programmiersprache. Gute Kenntnisse beim Einsatz einer Entwicklungsumgebung: Sicherheit im Umgang mit Debugging, Testing und Versionsmanagement. Grundkenntnisse der Besonderheiten mobiler Systeme: Benutzerinteraktionsmodelle, Nutzerverhalten, Systemressourcen, Design, etc. Grundkenntnisse agiler Softwareentwicklung: Iterative Prozesse, Kurze Zyklen, etc.", "value": 4000, "url": "http://google.com"},
+     {"name": "12 ECTS-Credits, 2 semestrige Veranstaltung", "value": 4000, "url": "http://google.com"},
      {"name": "Prof. Dr. Ruhland", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
-     {"name": "Workload\n Palim Palam", "value": 4000}
+     {"name": "Zugangsvoraussetzungen: keine", "value": 4000}
      ]
     },
     {
@@ -72,27 +72,27 @@
       "name": "Seminar 1",
       "children": [
       {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com" },
-      {"name": "ECTS", "value": 4000, "url": "http://google.com" },
-      {"name": "Dozent/Dozentin", "value": 4000, "url": "http://google.com" },
-      {"name": "Workload", "value": 4000, "url": "http://google.com" }      
+      {"name": "3 ECTS-Credits", "value": 4000, "url": "http://google.com" },
+      {"name": "Wechselnde Dozentin und Dozenten", "value": 4000, "url": "http://google.com" },
+      {"name": "Zugangsvoraussetzungen: keine", "value": 4000, "url": "http://google.com" }      
       ]
     },
     {
       "name": "Seminar 2",
       "children": [
       {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://www.google.com"},
-      {"name": "ECTS", "value": 4000, "url": "http://www.google.com"},
-      {"name": "Dozent/Dozentin", "value": 4000, "url": "http://www.google.com"},
-      {"name": "Workload", "value": 4000, "url": "http://www.google.com"}
+      {"name": "3 ECTS-Credits", "value": 4000, "url": "http://www.google.com"},
+      {"name": "Wechselnde Dozentin und Dozenten", "value": 4000, "url": "http://www.google.com"},
+      {"name": "Zugangsvoraussetzungen: keine", "value": 4000, "url": "http://www.google.com"}
       ]
     },
     {
       "name": "Masterarbeit",
       "children": [
-      {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://www.google.de"},
-      {"name": "ECTS", "value": 4000, "url": "http://www.google.de"},
-      {"name": "Dozent/Dozentin", "value": 4000, "url": "http://www.google.de"},      
-      {"name": "Workload", "value": 4000, "url": "http://www.google.de"}
+      {"name": "Professionelle und eigenständige Anwendung der im bisherigen Studium erworbenen Kenntnisse. Offene und kritische Anwendung und Beurteilung innovativer Technologien. Anwendung aktuelle Erkenntnisse aus Forschung und Entwicklung und Gewinnung neuerForschungs- und Entwicklungsergebnisse auf Basis dieser. Entwicklung nutzbringender Lösungen, Dokumentation und Präsentation derselben.", "value": 4000, "url": "http://www.google.de"},
+      {"name": "30 ECTS-Credits", "value": 4000, "url": "http://www.google.de"},
+      {"name": "Alle Dozentinnen und Dozenten", "value": 4000, "url": ""},      
+      {"name": "Zugangsvorraussetzungen: keine", "value": 4000, "url": "http://www.google.de"}
       ]
     }
    ]
