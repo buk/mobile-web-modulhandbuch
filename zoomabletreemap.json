@@ -6,93 +6,152 @@
    "children":
    [
     {
-     "name": "Mobile Application Development",
+     "name": "MAD",
      "children": [
-      {"name": "Die Studierenden werden in die Lage versetzt, Grundprinzipien der mobilen Anwendungsentwicklung zu verstehen und darauf aufbauend Aufgaben in unvertrauten Fachdomänen zu übernehmen. Darüber hinaus lernen sie eigenständig fundierte Entscheidungen bei der Lösung von anspruchsvollen anwendungs- bzw. wissenschaftich orientierten Projekten zu fällen. Dabei werden typische Grundprobleme wie Persistenz, Lebenszyklen, Kommunikation, Nebenläufigkeit, Sensorik, Location Based Services, Tests, Metriken, Debugging und begrenzte Ressourcen gelöst. Ferner werden einschlägige Design Pattern erlernt und deren Anwendung vermittelt. Die Studierenden erlernen dabei ihre eigenständigen Entscheidungen bei der Problemlösung klar zu begründen und Fachleuten gegenüber zu verteidigen.", "value": 4000, "url": "http://google.com"},
-      {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
-      {"name": "Modulverantwortlicher: Prof. Dr. Keidel", "value": 4000, "url": "http://campus.fh-worms.de/~keidel/"},
-      {"name": "Zugangsvoraussetzungem: keine", "value": 4000}
+      {"name": "Mobile Application Development: Die Studierenden werden in die Lage versetzt, Grundprinzipien der mobilen Anwendungsentwicklung zu verstehen und darauf aufbauend Aufgaben in unvertrauten Fachdomänen zu übernehmen. Darüber hinaus lernen sie eigenständig fundierte Entscheidungen bei der Lösung von anspruchsvollen anwendungs- bzw. wissenschaftich orientierten Projekten zu fällen. Dabei werden typische Grundprobleme wie Persistenz, Lebenszyklen, Kommunikation, Nebenläufigkeit, Sensorik, Location Based Services, Tests, Metriken, Debugging und begrenzte Ressourcen gelöst. Ferner werden einschlägige Design Pattern erlernt und deren Anwendung vermittelt. Die Studierenden erlernen dabei ihre eigenständigen Entscheidungen bei der Problemlösung klar zu begründen und Fachleuten gegenüber zu verteidigen.", "value": 40, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=3"},
+      {"name": "Modulverantwortliche Person: Prof. Dr. Keidel", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1572"},
+      {"name": "6 ECTS-Credits", "value": 5, "url": ""},
+      {"name": "Zugangsvoraussetzungen: Gute  Kenntnisse  bei  der  Anwendung  einer  objektorientierten  Programmiersprache und gute Kenntnisse beim Einsatz einer Entwicklungsumgebung.  Unit  und  Functional  Tests  sollten  eingesetzt  werden können. Gute Grundkenntnisse der englischen Sprache.", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=3"}
      ]
     },
     {
-     "name": "Mobile Security",
+     "name": "MS",
      "children": [
-     {"name": "Die Studierenden erlernen ein grundlegendes Verständnis für die vielfältigen Problemstellungen des Fachgebietes Mobile Security. Sie sollen nach erfolgreichem Besuch der Veranstaltung in der Lage sein, die Datensicherheit von mobilen Anwendungen und Systemen einschätzen zu können. Die Kenntnis der unterschiedlichen Technologien soll die Teilnehmer dabei befähigen, ein geeignetes Sicherheitskonzept zu erarbeiten, Schwachstellen zu erkennen und zu diesen die entsprechen- den Gegenmaßnahmen zu ergreifen. Das Sicherheitskonzept soll dabei für potentielle Nutzer verständlich sein und einer kritischen Revision von Fachvertretern standhalten.", "value": 4000, "url": "http://google.com"},
-     {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
-     {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://google.com"},
-     {"name": "Zugangsvoraussetzungen: Gute Kenntnisse im Bereich der Grundlagen der Informatik, Hardware, Netzwerke und Systemadministration. Gutes Verständnis für mathematische Phänomene, wie sie im Zusammenhang mit Verschlüsselungstechnologien und Zertifikaten vorkommen. Gute Kenntnisse bei der Anwendung einer objektorientierten Programmiersprache und gute Kenntnisse beim Einsatz einer Entwicklungsumgebung. Gute Kenntnisse der englischen Sprache.", "value": 4000, "url": "http://google.com"}
+     {"name": "Mobile Security: Die Studierenden erlernen ein grundlegendes Verständnis für die vielfältigen Problemstellungen des Fachgebietes Mobile Security. Sie sollen nach erfolgreichem Besuch der Veranstaltung in der Lage sein, die Datensicherheit von mobilen Anwendungen und Systemen einschätzen zu können. Die Kenntnis der unterschiedlichen Technologien soll die Teilnehmer dabei befähigen, ein geeignetes Sicherheitskonzept zu erarbeiten, Schwachstellen zu erkennen und zu diesen die entsprechen- den Gegenmaßnahmen zu ergreifen. Das Sicherheitskonzept soll dabei für potentielle Nutzer verständlich sein und einer kritischen Revision von Fachvertretern standhalten.", "value": 40, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=8"},
+     {"name": "Modulverantwortliche Person: Prof. Dr. Keidel", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1572"},
+     {"name": "6 ECTS-Credits", "value": 5, "url": ""},
+     {"name": "Zugangsvoraussetzungen: Gute Kenntnisse im Bereich der Grundlagen der Informatik, Hardware, Netzwerke und Systemadministration. Gutes Verständnis für mathematische Phänomene, wie sie im Zusammenhang mit Verschlüsselungstechnologien und Zertifikaten vorkommen. Gute Kenntnisse bei der Anwendung einer objektorientierten Programmiersprache und gute Kenntnisse beim Einsatz einer Entwicklungsumgebung. Gute Kenntnisse der englischen Sprache.", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=8"}
      ]
     },
     {
-     "name": "Mobile Web",
+     "name": "MW",
      "children": [
-     {"name": "Die Studierenden werden in die Lage versetzt, Web-Benutzungsschnittstellen speziell an mobile Browser anzupassen. Sie lernen die Besonderheiten mobiler Endgeräte und deren Nutzung kennen und zu beurteilen. Die Kenntnis von APIs mobiler Browser ist dafür erforderlich.", "value": 4000, "url": "http://google.com"},
-     {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
-     {"name": "Prof. Dr. König", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
-     {"name": "Workload", "value": 4000, "url": "http://google.com"}
+     {"name": "Mobile Web: Die Studierenden werden in die Lage versetzt, Web-Benutzungsschnittstellen speziell an mobile Browser anzupassen. Sie lernen die Besonderheiten mobiler Endgeräte und deren Nutzung kennen und zu beurteilen. Die Kenntnis von APIs mobiler Browser ist dafür erforderlich.", "value": 40, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=11"},
+     {"name": "Modulverantwortliche Person: Prof. Dr. König", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
+     {"name": "6 ECTS-Credits", "value": 5, "url": ""},
+     {"name": "Zugangsvoraussetzungen: keine", "value": 5, "url": ""}
      ]
     },
     {
-     "name": "Mobile Usability",
+     "name": "MU",
      "children": [
-     {"name": "Die Studierenden werden in die Lage versetzt, mobile Applikationen mit systematischen Methoden auf Ihre Gebrauchstauglichkeit hin zu untersuchen, um fundierte Beurteilungen abgeben zu können, die wiederum in einer weiteren Entwicklungsiterationen zu einer besseren User Experience führen. Darüber hinaus lernen sie Verfahren zum Design von mobilen Nut- zungsschnittstellen kennen, sodass sie nach dem erfolgreichen Besuch der Veranstaltung mit einfachen Mitteln Prototypen erstellen können, die als Grundlage für Gebrauchstauglichkeitsuntersuchun- gen dienen und später zu einer voll funktionsfähigen mobilen Applikation implementiert werden.", "value": 4000, "url": "http://google.com"},
-     {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
-     {"name": "Prof. Dr. König", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
-     {"name": "Zugangsvoraussetzungen: keine", "value": 4000}
+     {"name": "Mobile Usability: Die Studierenden werden in die Lage versetzt, mobile Applikationen mit systematischen Methoden auf Ihre Gebrauchstauglichkeit hin zu untersuchen, um fundierte Beurteilungen abgeben zu können, die wiederum in einer weiteren Entwicklungsiterationen zu einer besseren User Experience führen. Darüber hinaus lernen sie Verfahren zum Design von mobilen Nut- zungsschnittstellen kennen, sodass sie nach dem erfolgreichen Besuch der Veranstaltung mit einfachen Mitteln Prototypen erstellen können, die als Grundlage für Gebrauchstauglichkeitsuntersuchun- gen dienen und später zu einer voll funktionsfähigen mobilen Applikation implementiert werden.", "value": 40, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=13"},
+     {"name": "Modulverantwortliche Person: Prof. Dr. König", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c12304"},
+     {"name": "6 ECTS-Credits", "value": 5, "url": ""},
+     {"name": "Zugangsvoraussetzungen: keine", "value": 5}
      ]
     },
     {
-     "name": "Wissenschaftliches Arbeiten",
+     "name": "WA",
      "children": [
-     {"name": "Die Studierenden werden in die Lage versetzt, wissenschaftlich fundierte und korrekt erstellte Texte zu verfassen. Diesen voraus geht ein von den Teilnehmern bzw. Teilnehmerinnen zu vertiefendes Vermögen, wissenschaftlich zu denken, zu argumentieren und zu arbeiten. Die aktive Teilnahme an diesem Modul befähigt die Studierenden, qualitativ hochwertige und den Prinzipien wissenschaftlichen Vorgehens entsprechende Textprodukte, sowohl während des Masterstudiums als auch im Rahmen ihrer Abschlussarbeit (Master Thesis), zu erzeugen.", "value": 4000, "url": "http://google.com"},
-     {"name": "6 ECTS-Credits", "value": 4000, "url": "http://google.com"},
-     {"name": "Prof. Dr. Heinemann", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
-     {"name": "Zugangsvoraussetzungen: keine", "value": 4000}
+     {"name": "Wissenschaftliches Arbeiten: Die Studierenden werden in die Lage versetzt, wissenschaftlich fundierte und korrekt erstellte Texte zu verfassen. Diesen voraus geht ein von den Teilnehmern bzw. Teilnehmerinnen zu vertiefendes Vermögen, wissenschaftlich zu denken, zu argumentieren und zu arbeiten. Die aktive Teilnahme an diesem Modul befähigt die Studierenden, qualitativ hochwertige und den Prinzipien wissenschaftlichen Vorgehens entsprechende Textprodukte, sowohl während des Masterstudiums als auch im Rahmen ihrer Abschlussarbeit (Master Thesis), zu erzeugen.", "value": 40, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=19"},
+     {"name": "Modulverantwortliche Person: Prof. Dr. Heinemann", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
+     {"name": "6 ECTS-Credits", "value": 5, "url": ""},
+     {"name": "Zugangsvoraussetzungen: keine", "value": 5}
      ]
     },
     {
-     "name": "Projekt Systementwicklung",
+     "name": "PSE",
      "children": [
-     {"name": "Gute Kenntnisse in objektorientiertem Design. Geläufigkeit in min- destens einer objektorientierten Programmiersprache. Gute Kenntnisse beim Einsatz einer Entwicklungsumgebung: Sicherheit im Umgang mit Debugging, Testing und Versionsmanagement. Grundkenntnisse der Besonderheiten mobiler Systeme: Benutzerinteraktionsmodelle, Nutzerverhalten, Systemressourcen, Design, etc. Grundkenntnisse agiler Softwareentwicklung: Iterative Prozesse, Kurze Zyklen, etc.", "value": 4000, "url": "http://google.com"},
-     {"name": "12 ECTS-Credits, 2 semestrige Veranstaltung", "value": 4000, "url": "http://google.com"},
-     {"name": "Prof. Dr. Ruhland", "value": 4000, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
-     {"name": "Zugangsvoraussetzungen: keine", "value": 4000}
+     {"name": "Projekt Systementwicklung: Gute Kenntnisse in objektorientiertem Design. Geläufigkeit in mindestens einer objektorientierten Programmiersprache. Gute Kenntnisse beim Einsatz einer Entwicklungsumgebung: Sicherheit im Umgang mit Debugging, Testing und Versionsmanagement. Grundkenntnisse der Besonderheiten mobiler Systeme: Benutzerinteraktionsmodelle, Nutzerverhalten, Systemressourcen, Design, etc. Grundkenntnisse agiler Softwareentwicklung: Iterative Prozesse, Kurze Zyklen, etc.", "value": 80, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=16"},
+     {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 20, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+     {"name": "12 ECTS-Credits, 2 semestrige Veranstaltung", "value": 10, "url": ""},
+     {"name": "Zugangsvoraussetzungen: Gute Kenntnisse in objektorientiertem Design. Geläufigkeit in mindestens einer objektorientierten Programmiersprache. Gute Kenntnisse beim Einsatz einer Entwicklungsumgebung: Sicherheit im Umgang mit Debugging, Testing und Versionsmanagement. Grundkenntnisse der Besonderheiten mobiler Systeme: Benutzerinteraktionsmodelle, Nutzerverhalten, Systemressourcen, Design, etc. Grundkenntnisse agiler Softwareentwicklung: Iterative Prozesse, Kurze Zyklen, etc. ", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=16"}
      ]
     },
     {
-     "name": "Wahlpflichtveranstaltungen",
-     "children": [
-     {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com"},
-     {"name": "ECTS", "value": 4000, "url": "http://google.com"},
-     {"name": "Prof. Dr. Keidel", "value": 4000, "url": "http://campus.fh-worms.de/~keidel/"},
-     {"name": "Workload\n Palim Palam", "value": 4000}
-     ]
-    },
-    {
-      "name": "Seminar 1",
+	 "name": "WPF (2 Module)",
       "children": [
-      {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://google.com" },
-      {"name": "3 ECTS-Credits", "value": 4000, "url": "http://google.com" },
-      {"name": "Wechselnde Dozentin und Dozenten", "value": 4000, "url": "http://google.com" },
-      {"name": "Zugangsvoraussetzungen: keine", "value": 4000, "url": "http://google.com" }      
+       {
+	   "name": "SCM", 
+	   "children": [
+	   {"name": "Software Change and Configuration Management: Die Studierenden werden in die Lage versetzt, professionell Konzepte und angepasste Prozesse für Software Change Management und Software Configuration Management in einem komplexen Entwicklungsprozess wie der Entwicklung mobiler Applikationen zu erstellen und im Entwicklungsteam umzusetzen. Die Studenten werden dazu befähigt, Unterstützungswerkzeuge für Software Change-, Configuration und Version Control Systems zu bewerten, die optimalen Tools auszuwählen und damit sicher und effizient eine Lösung zur Unterstützung von Change Management und Produktlinienentwicklung zu erstellen.", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=21"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 4, "url": "http://hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+	   {"name": "6 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "MN", 
+	   "children": [
+	   {"name": "Mobile Networks: Die Studenten werden befähigt, unter Beachtung der mobilitätstypischen Randbedingungen die Eigenschaften unterschiedlicher drahtloser Kommunikations-Systeme und deren aktuelle Entwicklungstrends zu bewerten und sie entsprechend der Netzwerk-Anforderungen der mobilen Anwendung passend zu planen, auszuwählen und optimal konfiguriert einzusetzen.", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=23"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Thielen", "value": 3, "url": "http://hs-worms.de/Professorinnen-Professoren.769.0.html#c1660"},
+	   {"name": "6 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "JA", 
+	   "children": [
+	   {"name": "Juristische Aspekte des Mobile Computing: Die Studierenden erhalten ein Bewusstsein für Rechtsfragen aus dem Umfeld des Mobile Computing und kennen mögliche rechtliche Implikationen ihres späteren Arbeitsumfeldes. Überdies können sie erste fundierte Beurteilungen hinsichtlich rechtlicher Fragestellungen abgeben. Darüber hinaus lernen sie wichtige rechtliche Aspekte für das Berufsfeld des Informatikers an sich kennen.", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=25"},
+	   {"name": "Modulverantwortliche Person: NN", "value": 3, "url": ""},
+	   {"name": "6 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "SWA", 
+	   "children": [
+	   {"name": "Software-Architektur: Die Studierenden lernen die Vorteile der komponentenbasierten Softwareentwicklung kennen und können den Bezug zur ingenieurmäßigen Softwareentwicklung und zu Software-Architekturen herstellen. Schwerpunkt bildet das Software-Engineering für mobile Systeme als Backend-basierte Anwendungen in Kommunikation mit Services unter Berücksichtigung plattformspezifischer Konzepte sowie von Cross-Plattform Strategien und Technologien.", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=27"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 3, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+	   {"name": "6 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "CSA",
+	   "children": [
+	   {"name": "Clouds und Service-Architekturen: Die Studierenden lernen das Rechnen sowie die Bildung von Erkenntnissen über verteilte Informations-Standorte kennen. Sie werden in die Lage versetzt, den modernen Begriff der Cloud einordnen und verwenden zu können, sowohl was die klassischen Ansätze der Virtualisierung von Computer-Infrastrukturleistungen betrifft als auch im Hinblick auf sich selbst organisierende, Diensteorientierte verteilte Informations-Strukturen, bis hin zur immer mehr an Bedeutung gewinnenden Cloud Intelligence.", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=29"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 3, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+	   {"name": "6 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  },
+	  {
+	   "name": "TEC", 
+	   "children": [
+	   {"name": "Technical English Conversation: The IT industry has developed technical English with acronyms and terms to simplify the description of a complex lexicon and lingo. A specific education within these acronyms and context is crucial for a computer science graduate today. This high-intermediate course is designed to strengthen and improve students knowledge of Technical English. The course focuses on general and specific technical vocabulary and grammatical structures found primarily in the engineering and science studies and in the professional technical field of computer science.", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=31"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Ruhland", "value": 3, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c6917"},
+	   {"name": "6 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: Englischkenntnisse entsprechend TOEFL B1 werden erwartet", "value": 2, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=31"}
+	   ]
+	  },
+	  {
+	   "name": "TM", 
+	   "children": [
+	   {"name": "Team Management: Die Studierenden lernen sich und die anderen als Individuen sowie als Mitspieler(innen) in Teams besser kennen und einzuschätzen. Sie erhalten Werkzeuge an die Hand, wie sie als Teamleiter(in) die einzelnen Teammitglieder fördern und gleichermaßen fordern können, so dass die Gruppen an einem Strang zum Wohle der Zielerreichung ziehen. Hier erkennen sie auch die Wichtigkeit der Berücksichtigung der verschiedenen Phasen innerhalb der Teamentwicklung.", "value": 10, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=34"},
+	   {"name": "Modulverantwortliche Person: Prof. Dr. Heinemann", "value": 3, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1997"},
+	   {"name": "6 ECTS-Credits", "value": 2, "url": ""},
+	   {"name": "Voraussetzungen: keine", "value": 2, "url": ""}
+	   ]
+	  }
+	 ]
+    },
+    {
+      "name": "S1",
+      "children": [
+      {"name": "Seminar 1: Wechselnde Seminar-Themen", "value": 20, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=15" },
+      {"name": "Modulverantwortliche Person: Wechselnde Dozentin und Dozenten", "value": 5, "url": "" },
+      {"name": "3 ECTS-Credits", "value": 3, "url": "" },
+      {"name": "Zugangsvoraussetzungen: keine", "value": 2, "url": ""}
       ]
     },
     {
-      "name": "Seminar 2",
+      "name": "S2",
       "children": [
-      {"name": "Pflichtveranstaltung", "value": 4000, "url": "http://www.google.com"},
-      {"name": "3 ECTS-Credits", "value": 4000, "url": "http://www.google.com"},
-      {"name": "Wechselnde Dozentin und Dozenten", "value": 4000, "url": "http://www.google.com"},
-      {"name": "Zugangsvoraussetzungen: keine", "value": 4000, "url": "http://www.google.com"}
+      {"name": "Seminar 2: Wechselnde Seminar-Themen", "value": 20, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=15"},
+      {"name": "Modulverantwortliche Person: Wechselnde Dozentin und Dozenten", "value": 5, "url": ""},
+      {"name": "3 ECTS-Credits", "value": 3, "url": ""},
+      {"name": "Zugangsvoraussetzungen: keine", "value": 2, "url": ""}
       ]
     },
     {
-      "name": "Masterarbeit",
+      "name": "MK",
       "children": [
-      {"name": "Professionelle und eigenständige Anwendung der im bisherigen Studium erworbenen Kenntnisse. Offene und kritische Anwendung und Beurteilung innovativer Technologien. Anwendung aktuelle Erkenntnisse aus Forschung und Entwicklung und Gewinnung neuerForschungs- und Entwicklungsergebnisse auf Basis dieser. Entwicklung nutzbringender Lösungen, Dokumentation und Präsentation derselben.", "value": 4000, "url": "http://www.google.de"},
-      {"name": "30 ECTS-Credits", "value": 4000, "url": "http://www.google.de"},
-      {"name": "Alle Dozentinnen und Dozenten", "value": 4000, "url": ""},      
-      {"name": "Zugangsvorraussetzungen: keine", "value": 4000, "url": "http://www.google.de"}
+      {"name": "Masterarbeit + Kolloquium: Professionelle und eigenständige Anwendung der im bisherigen Studium erworbenen Kenntnisse. Offene und kritische Anwendung und Beurteilung innovativer Technologien. Anwendung aktuelle Erkenntnisse aus Forschung und Entwicklung und Gewinnung neuerForschungs- und Entwicklungsergebnisse auf Basis dieser. Entwicklung nutzbringender Lösungen, Dokumentation und Präsentation derselben.", "value": 200, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf#page=6"},
+      {"name": "Modulverantwortliche Person: Alle Dozentinnen und Dozenten", "value": 50, "url": ""},      
+      {"name": "30 ECTS-Credits", "value": 25, "url": ""},
+      {"name": "Zugangsvoraussetzungen: keine", "value": 25, "url": ""}
       ]
     }
    ]
