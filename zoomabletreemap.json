@@ -241,7 +241,7 @@
 	  {
 	   "name": "SE 1 (Modul 1.2.5)", 
 	   "children": [
-	   {"name": "SW-Engineering 1: Die Studierenden sollen einen groben Überblick über methodische Software-Entwicklung erhalten und vertieft semantische Modellierungsmethoden erlernen und im begleitenden Praktikum anwenden können. Dazu werden Grundkenntnisse und Fähigkeiten vermittelt: Kenntnisse der Vorgehensweisen, Grundkonzepte des Objekt-orientierten Modellierens, Modellieren mit der UML.", "value": 3000, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=22"},
+	   {"name": "SW-Engineering 1: Die Studierenden sollen einen groben Überblick über methodische Software-Entwicklung erhalten und vertieft semantische Modellierungsmethoden erlernen und im begleitenden Praktikum anwenden können. Dazu werden Grundkenntnisse und Fähigkeiten vermittelt: Kenntnisse der Vorgehensweisen, Grundkonzepte des Objekt-orientierten Modellierens, Modellieren mit der UML.", "value": 30, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=22"},
 	   {"name": "Modulverantwortliche Person: Prof. Dr. Schwinn", "value": 10, "url": "http://www.hs-worms.de/Professorinnen-Professoren.769.0.html#c1654"},
 	   {"name": "5 ECTS-Credits", "value": 5, "url": ""},
 	   {"name": "Voraussetzungen: Erfolgreiche Teilnahme an \"Prog 2 (Modul 1.2.2)\" wird dringend empfohlen", "value": 5, "url": "http://hs-worms.de/fileadmin/medien/FB_inf/pdf_file/Anginf_BSc/FbI_AInf_Modulhandbuch_032015.pdf#page=16"}
