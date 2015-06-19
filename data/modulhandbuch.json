@@ -1,0 +1,115 @@
+[
+  {
+    "Studiengang": "Mobile Computing"
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Web",
+      "colormebad": 1
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Usability",
+      "colormebad": 2
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Security",
+      "colormebad": 3
+    },
+    {
+      "Studiengang": "Angewandte Informatik"
+    },
+    {
+      "Studiengang": "Angewandte Informatik",
+      "Vorlesung": "Cell 2.1",
+      "value": 10
+    },
+    {
+      "Studiengang": "Angewandte Informatik",
+      "Vorlesung": "Cell 2.2",
+      "value": 20
+    },
+    {
+      "Studiengang": "Angewandte Informatik",
+      "Vorlesung": "Cell 2.3",
+      "value": 10
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Web",
+      "gid": "Prof. Dr. König",
+      "colormebad": 1,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Usability",
+      "gid": "Prof. Dr. König",
+      "colormebad": 2,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Security",
+      "gid": "Prof. Dr. Keidel",
+      "colormebad": 3,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Web",
+      "gid": "ECTS 6",
+      "colormebad": 1,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Usability",
+      "gid": "ECTS 6",
+      "colormebad": 2,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Security",
+      "gid": "ECTS 6",
+      "colormebad": 3,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Web",
+      "gid": "Awesome Sausage Fest",
+      "colormebad": 1,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Usability",
+      "gid": "Die Studenten lernen hier",
+      "colormebad": 2,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Web",
+      "gid": "Palim Palam",
+      "colormebad": 1,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Usability",
+      "gid": "Das Schaf sprach Hurz!",
+      "colormebad": 2,
+      "value": 5
+    },
+    {
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "Mobile Security",
+      "gid": "Beats App by Dr.",
+      "colormebad": 3,
+      "value": 5
+    }
+]
