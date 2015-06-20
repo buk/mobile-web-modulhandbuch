@@ -16,10 +16,19 @@
   var visualization = d3plus.viz()
     .container("#viz")
     .data("data/modulhandbuch.json")
+    .messages( "Das Modulhandbuch wird geladen ..." )
     .type("tree_map")
     .id(["Studiengang","Vorlesung","gid"])
     .size("value")
-    .color("colormebad")
+    .color(function(d){
+      return d.colormebad > 0 ? "#008800" : "#880000";
+    })
+    .color(function(d){
+      return d.year > 2000 ? "#009900" : "#ef0000";
+    })
+    .style({"labels": {"align": "top"}})
+    .font({ "family": "Times" })
+    .title("Modulhandbuch der Hochschule Worms")
     .depth(0)
     .draw()
 

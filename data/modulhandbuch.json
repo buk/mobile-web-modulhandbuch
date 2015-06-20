@@ -5,12 +5,14 @@
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Web",
-      "colormebad": 1
+      "colormebad": 1,
+      "year": 2014
     },
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Usability",
-      "colormebad": 2
+      "colormebad": 2,
+      "year": 2015
     },
     {
       "Studiengang": "Mobile Computing",
