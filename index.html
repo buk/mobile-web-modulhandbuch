@@ -20,12 +20,7 @@
     .type("tree_map")
     .id(["Studiengang","Vorlesung","gid"])
     .size("value")
-    .color(function(d){
-      return d.colormebad > 0 ? "#008800" : "#880000";
-    })
-    .color(function(d){
-      return d.year > 2000 ? "#009900" : "#ef0000";
-    })
+    .color("colorful")
     .style({"labels": {"align": "top"}})
     .font({ "family": "Times" })
     .title("Modulhandbuch der Hochschule Worms")

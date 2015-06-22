@@ -5,308 +5,275 @@
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Web",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#3f51b5"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Web",
 		  "gid": "Mobile Web: Die Studierenden werden in die Lage versetzt, Web-Benutzungsschnittstellen speziell an mobile Browser anzupassen. Sie lernen die Besonderheiten mobiler Endgeräte und deren Nutzung kennen und zu beurteilen. Die Kenntnis von APIs mobiler Browser ist dafür erforderlich.",
-		  "colormebad": 1,
-		  "value": 40
+		  "value": 40,
+		  "colorful": "#3f51b5"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Web",
 		  "gid": "Modulverantwortliche Person: Prof. Dr. König",
-		  "colormebad": 1,
-		  "value": 10
+		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Web",
 		  "gid": "ECTS-Credits: 6",
-		  "colormebad": 1,
 		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Web",
 		  "gid": "Zugangsvoraussetzungen: keine",
-		  "colormebad": 1,
-		  "value": 5
+		  "value": 10
 		},
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Application Development",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#3f51b5"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Application Development",
 		  "gid": "Mobile Application Development: Die Studierenden werden in die Lage versetzt, Grundprinzipien der mobilen Anwendungsentwicklung zu verstehen und darauf aufbauend Aufgaben in unvertrauten Fachdomänen zu übernehmen. Darüber hinaus lernen sie eigenständig fundierte Entscheidungen bei der Lösung von anspruchsvollen anwendungs- bzw. wissenschaftich orientierten Projekten zu fällen. Dabei werden typische Grundprobleme wie Persistenz, Lebenszyklen, Kommunikation, Nebenläufigkeit, Sensorik, Location Based Services, Tests, Metriken, Debugging und begrenzte Ressourcen gelöst. Ferner werden einschlägige Design Pattern erlernt und deren Anwendung vermittelt. Die Studierenden erlernen dabei ihre eigenständigen Entscheidungen bei der Problemlösung klar zu begründen und Fachleuten gegenüber zu verteidigen.",
-		  "colormebad": 1,
-		  "value": 40
+		  "value": 40,
+		  "colorful": "#3f51b5"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Application Development",
 		  "gid": "Modulverantwortliche Person: Prof. Dr. Keidel",
-		  "colormebad": 1,
-		  "value": 10
+		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Application Development",
 		  "gid": "ECTS-Credits: 6",
-		  "colormebad": 1,
 		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Application Development",
 		  "gid": "Zugangsvoraussetzungen: Gute Kenntnisse bei der Anwendung einer objektorientierten Programmiersprache und gute Kenntnisse beim Einsatz einer Entwicklungsumgebung. Unit und Functional Tests sollten eingesetzt werden können. Gute Grundkenntnisse der englischen Sprache.",
-		  "colormebad": 1,
-		  "value": 5
+		  "value": 10
 		},
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Security",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#3f51b5"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Security",
 		  "gid": "Die Studierenden erlernen ein grundlegendes Verständnis für die vielfältigen Problemstellungen des Fachgebietes Mobile Security. Sie sollen nach erfolgreichem Besuch der Veranstaltung in der Lage sein, die Datensicherheit von mobilen Anwendungen und Systemen einschätzen zu können. Die Kenntnis der unterschiedlichen Technologien soll die Teilnehmer dabei befähigen, ein geeignetes Sicherheitskonzept zu erarbeiten, Schwachstellen zu erkennen und zu diesen die entsprechen- den Gegenmaßnahmen zu ergreifen. Das Sicherheitskonzept soll dabei für potentielle Nutzer verständlich sein und einer kritischen Revision von Fachvertretern standhalten.",
-		  "colormebad": 1,
-		  "value": 40
+		  "value": 40,
+		  "colorful": "#3f51b5"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Security",
 		  "gid": "Modulverantwortliche Person: Prof. Dr. Keidel",
-		  "colormebad": 1,
-		  "value": 10
+		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Security",
 		  "gid": "ECTS-Credits: 6",
-		  "colormebad": 1,
 		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Security",
 		  "gid": "Zugangsvoraussetzungen: Gute Kenntnisse im Bereich der Grundlagen der Informatik, Hardware, Netzwerke und Systemadministration. Gutes Verständnis für mathematische Phänomene, wie sie im Zusammenhang mit Verschlüsselungstechnologien und Zertifikaten vorkommen. Gute Kenntnisse bei der Anwendung einer objektorientierten Programmiersprache und gute Kenntnisse beim Einsatz einer Entwicklungsumgebung. Gute Kenntnisse der englischen Sprache.",
-		  "colormebad": 1,
-		  "value": 5
+		  "value": 10
 		},
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Usability",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#3f51b5"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Usability",
 		  "gid": "Die Studierenden werden in die Lage versetzt, mobile Applikationen mit systematischen Methoden auf Ihre Gebrauchstauglichkeit hin zu untersuchen, um fundierte Beurteilungen abgeben zu können, die wiederum in einer weiteren Entwicklungsiterationen zu einer besseren User Experience führen. Darüber hinaus lernen sie Verfahren zum Design von mobilen Nut- zungsschnittstellen kennen, sodass sie nach dem erfolgreichen Besuch der Veranstaltung mit einfachen Mitteln Prototypen erstellen können, die als Grundlage für Gebrauchstauglichkeitsuntersuchun- gen dienen und später zu einer voll funktionsfähigen mobilen Applikation implementiert werden.",
-		  "colormebad": 1,
-		  "value": 40
+		  "value": 40,
+		  "colorful": "#3f51b5"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Usability",
 		  "gid": "Modulverantwortliche Person: Prof. Dr. König",
-		  "colormebad": 1,
-		  "value": 10
+		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Usability",
 		  "gid": "ECTS-Credits: 6",
-		  "colormebad": 1,
 		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Usability",
 		  "gid": "Zugangsvoraussetzungen: keine",
-		  "colormebad": 1,
-		  "value": 5
+		  "value": 10
 		},
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Wissenschaftliches Arbeiten",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#ff9800"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Wissenschaftliches Arbeiten",
 		  "gid": "Die Studierenden werden in die Lage versetzt, wissenschaftlich fundierte und korrekt erstellte Texte zu verfassen. Diesen voraus geht ein von den Teilnehmern bzw. Teilnehmerinnen zu vertiefendes Vermögen, wissenschaftlich zu denken, zu argumentieren und zu arbeiten. Die aktive Teilnahme an diesem Modul befähigt die Studierenden, qualitativ hochwertige und den Prinzipien wissenschaftlichen Vorgehens entsprechende Textprodukte, sowohl während des Masterstudiums als auch im Rahmen ihrer Abschlussarbeit (Master Thesis), zu erzeugen.",
-		  "colormebad": 1,
-		  "value": 40
+		  "value": 40,
+		  "colorful": "#ff9800"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Wissenschaftliches Arbeiten",
 		  "gid": "Modulverantwortliche Person: Prof. Dr. Heinemann",
-		  "colormebad": 1,
-		  "value": 10
+		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Wissenschaftliches Arbeiten",
 		  "gid": "ECTS-Credits: 6",
-		  "colormebad": 1,
 		  "value": 5
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Wissenschaftliches Arbeiten",
 		  "gid": "Zugangsvoraussetzungen: keine",
-		  "colormebad": 1,
-		  "value": 5
+		  "value": 10
 		},
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Projekt Systementwicklung",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#673ab7"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Projekt Systementwicklung",
 		  "gid": "Gute Kenntnisse in objektorientiertem Design. Geläufigkeit in mindestens einer objektorientierten Programmiersprache. Gute Kenntnisse beim Einsatz einer Entwicklungsumgebung: Sicherheit im Umgang mit Debugging, Testing und Versionsmanagement. Grundkenntnisse der Besonderheiten mobiler Systeme: Benutzerinteraktionsmodelle, Nutzerverhalten, Systemressourcen, Design, etc. Grundkenntnisse agiler Softwareentwicklung: Iterative Prozesse, Kurze Zyklen, etc.",
-		  "colormebad": 1,
-		  "value": 80
+		  "value": 80,
+		  "colorful": "#673ab7"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Projekt Systementwicklung",
 		  "gid": "Modulverantwortliche Person: Prof. Dr. Ruhland",
-		  "colormebad": 1,
-		  "value": 20
+		  "value": 10
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Projekt Systementwicklung",
 		  "gid": "ECTS-Credits: 12 (2 semestrige Veranstaltung)",
-		  "colormebad": 1,
 		  "value": 10
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Projekt Systementwicklung",
 		  "gid": "Zugangsvoraussetzungen: Gute Kenntnisse in objektorientiertem Design. Geläufigkeit in mindestens einer objektorientierten Programmiersprache. Gute Kenntnisse beim Einsatz einer Entwicklungsumgebung: Sicherheit im Umgang mit Debugging, Testing und Versionsmanagement. Grundkenntnisse der Besonderheiten mobiler Systeme: Benutzerinteraktionsmodelle, Nutzerverhalten, Systemressourcen, Design, etc. Grundkenntnisse agiler Softwareentwicklung: Iterative Prozesse, Kurze Zyklen, etc.",
-		  "colormebad": 1,
-		  "value": 10
+		  "value": 20
 		},
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Seminar 1",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#ff9800"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Seminar 1",
 		  "gid": "Wechselnde Seminar-Themen",
-		  "colormebad": 1,
-		  "value": 20
+		  "value": 20,
+		  "colorful": "#ff9800"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Seminar 1",
 		  "gid": "Modulverantwortliche Person: Wechselnde Dozentin und Dozenten",
-		  "colormebad": 1,
-		  "value": 5
-		},
-		{
-		  "Studiengang": "Mobile Computing",
-		  "Vorlesung": "Seminar 1",
-		  "gid": "ECTS-Credits: 3",
-		  "colormebad": 1,
 		  "value": 3
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Seminar 1",
-		  "gid": "Zugangsvoraussetzungen: keine",
-		  "colormebad": 1,
+		  "gid": "ECTS-Credits: 3",
 		  "value": 2
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "Seminar 1",
+		  "gid": "Zugangsvoraussetzungen: keine",
+		  "value": 5
 		},
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Seminar 2",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#ff9800"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Seminar 2",
 		  "gid": "Wechselnde Seminar-Themen",
-		  "colormebad": 1,
-		  "value": 20
+		  "value": 20,
+		  "colorful": "#ff9800"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Seminar 2",
 		  "gid": "Modulverantwortliche Person: Wechselnde Dozentin und Dozenten",
-		  "colormebad": 1,
-		  "value": 5
-		},
-		{
-		  "Studiengang": "Mobile Computing",
-		  "Vorlesung": "Seminar 2",
-		  "gid": "ECTS-Credits: 3",
-		  "colormebad": 1,
 		  "value": 3
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Seminar 2",
-		  "gid": "Zugangsvoraussetzungen: keine",
-		  "colormebad": 1,
+		  "gid": "ECTS-Credits: 3",
 		  "value": 2
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "Seminar 2",
+		  "gid": "Zugangsvoraussetzungen: keine",
+		  "value": 5
 		},
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Masterarbeit + Kolloquium",
-      "colormebad": 1,
-      "year": 2014
+	  "colorful": "#4caf50"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "Professionelle und eigenständige Anwendung der im bisherigen Studium erworbenen Kenntnisse. Offene und kritische Anwendung und Beurteilung innovativer Technologien. Anwendung aktuelle Erkenntnisse aus Forschung und Entwicklung und Gewinnung neuerForschungs- und Entwicklungsergebnisse auf Basis dieser. Entwicklung nutzbringender Lösungen, Dokumentation und Präsentation derselben.",
-		  "colormebad": 1,
-		  "value": 200
+		  "value": 200,
+		  "colorful": "#4caf50"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "Modulverantwortliche Person: Alle Dozentinnen und Dozenten",
-		  "colormebad": 1,
-		  "value": 50
+		  "value": 25,
+		  "colorful": "#4caf50"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "ECTS-Credits: 30",
-		  "colormebad": 1,
-		  "value": 25
+		  "value": 25,
+		  "colorful": "#4caf50"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "Zugangsvoraussetzungen: keine",
-		  "colormebad": 1,
-		  "value": 25
+		  "value": 50,
+		  "colorful": "#4caf50"
 		},
     {
       "Studiengang": "Angewandte Informatik"
