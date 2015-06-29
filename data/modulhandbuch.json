@@ -245,36 +245,129 @@
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Masterarbeit + Kolloquium",
-	  "colorful": "#4caf50"
+	  "colorful": "#4ccc50"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "Professionelle und eigenständige Anwendung der im bisherigen Studium erworbenen Kenntnisse. Offene und kritische Anwendung und Beurteilung innovativer Technologien. Anwendung aktuelle Erkenntnisse aus Forschung und Entwicklung und Gewinnung neuerForschungs- und Entwicklungsergebnisse auf Basis dieser. Entwicklung nutzbringender Lösungen, Dokumentation und Präsentation derselben.",
 		  "value": 200,
-		  "colorful": "#4caf50"
+		  "colorful": "#4ccc50"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "Modulverantwortliche Person: Alle Dozentinnen und Dozenten",
-		  "value": 25,
-		  "colorful": "#4caf50"
+		  "value": 25
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "ECTS-Credits: 30",
-		  "value": 25,
-		  "colorful": "#4caf50"
+		  "value": 25
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "Zugangsvoraussetzungen: keine",
-		  "value": 50,
-		  "colorful": "#4caf50"
+		  "value": 50
 		},
+	{
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "WPF 1",
+	  "colorful": "#2196f3"
+    },
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 1",
+		  "gid": "Software Change and Configuration Management: Die Studierenden werden in die Lage versetzt, professionell Konzepte und angepasste Prozesse für Software Change Management und Software Configuration Management in einem komplexen Entwicklungsprozess wie der Entwicklung mobiler Applikationen zu erstellen und im Entwicklungsteam umzusetzen.",
+		  "value": 9,
+		  "colorful": "#2196f3"
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 1",
+		  "gid": "Mobile Networks: Die Studenten werden befähigt, unter Beachtung der mobilitätstypischen Randbedingungen die Eigenschaften unterschiedlicher drahtloser Kommunikations-Systeme und deren aktuelle Entwicklungstrends zu bewerten und sie entsprechend der Netzwerk-Anforderungen der mobilen Anwendung passend zu planen, auszuwählen und optimal konfiguriert einzusetzen.",
+		  "value": 8
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 1",
+		  "gid": "Juristische Aspekte des Mobile Computing: Die Studierenden erhalten ein Bewusstsein für Rechtsfragen aus dem Umfeld des Mobile Computing und kennen mögliche rechtliche Implikationen ihres späteren Arbeitsumfeldes. Überdies können sie erste fundierte Beurteilungen hinsichtlich rechtlicher Fragestellungen abgeben.",
+		  "value": 8
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 1",
+		  "gid": "Software-Architektur: Schwerpunkt bildet das Software-Engineering für mobile Systeme als Backend-basierte Anwendungen in Kommunikation mit Services unter Berücksichtigung plattformspezifischer Konzepte sowie von Cross-Plattform Strategien und Technologien.",
+		  "value": 8
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 1",
+		  "gid": "Clouds und Service-Architekturen: Die Studierenden lernen das Rechnen sowie die Bildung von Erkenntnissen über verteilte Informations-Standorte kennen.",
+		  "value": 9
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 1",
+		  "gid": "Technical English Conversation: The IT industry has developed technical English with acronyms and terms to simplify the description of a complex lexicon and lingo. A specific education within these acronyms and context is crucial for a computer science graduate today.",
+		  "value": 9
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 1",
+		  "gid": "Team Management: Die Studierenden lernen sich und die anderen als Individuen sowie als Mitspieler(innen) in Teams besser kennen und einzuschätzen. Sie erhalten Werkzeuge an die Hand, wie sie als Teamleiter(in) die einzelnen Teammitglieder fördern und gleichermaßen fordern können.",
+		  "value": 9
+		},		
+	{
+      "Studiengang": "Mobile Computing",
+      "Vorlesung": "WPF 2",
+	  "colorful": "#2196f3"
+    },
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 2",
+		  "gid": "Software Change and Configuration Management: Die Studierenden werden in die Lage versetzt, professionell Konzepte und angepasste Prozesse für Software Change Management und Software Configuration Management in einem komplexen Entwicklungsprozess wie der Entwicklung mobiler Applikationen zu erstellen und im Entwicklungsteam umzusetzen. Die Studenten werden dazu befähigt, Unterstützungswerkzeuge für Software Change-, Configuration und Version Control Systems zu bewerten, die optimalen Tools auszuwählen und damit sicher und effizient eine Lösung zur Unterstützung von Change Management und Produktlinienentwicklung zu erstellen.",
+		  "value": 9,
+		  "colorful": "#2196f3"
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 2",
+		  "gid": "Mobile Networks: Die Studenten werden befähigt, unter Beachtung der mobilitätstypischen Randbedingungen die Eigenschaften unterschiedlicher drahtloser Kommunikations-Systeme und deren aktuelle Entwicklungstrends zu bewerten und sie entsprechend der Netzwerk-Anforderungen der mobilen Anwendung passend zu planen, auszuwählen und optimal konfiguriert einzusetzen.",
+		  "value": 8
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 2",
+		  "gid": "Juristische Aspekte des Mobile Computing: Die Studierenden erhalten ein Bewusstsein für Rechtsfragen aus dem Umfeld des Mobile Computing und kennen mögliche rechtliche Implikationen ihres späteren Arbeitsumfeldes. Überdies können sie erste fundierte Beurteilungen hinsichtlich rechtlicher Fragestellungen abgeben. Darüber hinaus lernen sie wichtige rechtliche Aspekte für das Berufsfeld des Informatikers an sich kennen.",
+		  "value": 8
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 2",
+		  "gid": "Software-Architektur: Die Studierenden lernen die Vorteile der komponentenbasierten Softwareentwicklung kennen und können den Bezug zur ingenieurmäßigen Softwareentwicklung und zu Software-Architekturen herstellen. Schwerpunkt bildet das Software-Engineering für mobile Systeme als Backend-basierte Anwendungen in Kommunikation mit Services unter Berücksichtigung plattformspezifischer Konzepte sowie von Cross-Plattform Strategien und Technologien.",
+		  "value": 8
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 2",
+		  "gid": "Clouds und Service-Architekturen: Die Studierenden lernen das Rechnen sowie die Bildung von Erkenntnissen über verteilte Informations-Standorte kennen. Sie werden in die Lage versetzt, den modernen Begriff der Cloud einordnen und verwenden zu können, sowohl was die klassischen Ansätze der Virtualisierung von Computer-Infrastrukturleistungen betrifft als auch im Hinblick auf sich selbst organisierende, Diensteorientierte verteilte Informations-Strukturen, bis hin zur immer mehr an Bedeutung gewinnenden Cloud Intelligence.",
+		  "value": 9
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 2",
+		  "gid": "Technical English Conversation: The IT industry has developed technical English with acronyms and terms to simplify the description of a complex lexicon and lingo. A specific education within these acronyms and context is crucial for a computer science graduate today. This high-intermediate course is designed to strengthen and improve students knowledge of Technical English. The course focuses on general and specific technical vocabulary and grammatical structures found primarily in the engineering and science studies and in the professional technical field of computer science.",
+		  "value": 9
+		},
+		{
+		  "Studiengang": "Mobile Computing",
+		  "Vorlesung": "WPF 2",
+		  "gid": "Team Management: Die Studierenden lernen sich und die anderen als Individuen sowie als Mitspieler(innen) in Teams besser kennen und einzuschätzen. Sie erhalten Werkzeuge an die Hand, wie sie als Teamleiter(in) die einzelnen Teammitglieder fördern und gleichermaßen fordern können, so dass die Gruppen an einem Strang zum Wohle der Zielerreichung ziehen. Hier erkennen sie auch die Wichtigkeit der Berücksichtigung der verschiedenen Phasen innerhalb der Teamentwicklung.",
+		  "value": 9
+		},		
     {
       "Studiengang": "Angewandte Informatik"
     },
