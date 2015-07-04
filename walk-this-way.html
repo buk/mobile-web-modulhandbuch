@@ -1,0 +1,32 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<script src="http://www.d3plus.org/js/d3.js"></script>
+<script src="http://www.d3plus.org/js/d3plus.js"></script>
+
+<div id="viz"></div>
+
+<script>
+
+  var sample_data = [
+    {"year": 1991, "name":"Mobile Usability", "value": 15},
+    {"year": 1992, "name":"Mobie Application Development", "value": 20},
+    {"year": 1994, "name":"Mobile Security", "value": 30},
+    {"year": 1995, "name":"Mobile Web", "value": 60},
+    {"year": 1993, "name":"Projekt Systementwicklung 1", "value": 40},
+    {"year": 1994, "name":"Projekt Systementwicklung 2", "value": 60},
+    {"year": 1995, "name":"Seminar 1", "value": 10},
+    {"year": 1994, "name":"Seminar 2", "value": 35},
+    {"year": 1995, "name":"Wissenschaftliches Arbeiten", "value": 40}
+  ]
+
+  var visualization = d3plus.viz()
+    .container("#viz")
+    .data(sample_data)
+    .type("tree_map")
+    .id("name")
+    .size("value")
+    .time({"value": "year", "solo": 1994})
+    .draw()
+
+</script>
