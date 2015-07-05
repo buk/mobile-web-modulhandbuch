@@ -5,14 +5,14 @@
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Web",
-	  "colorful": "#3f51b5"
+	  "colorful": "#3B5C7F"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Web",
 		  "gid": "Mobile Web: Die Studierenden werden in die Lage versetzt, Web-Benutzungsschnittstellen speziell an mobile Browser anzupassen. Sie lernen die Besonderheiten mobiler Endgeräte und deren Nutzung kennen und zu beurteilen. Die Kenntnis von APIs mobiler Browser ist dafür erforderlich.",
 		  "value": 40,
-		  "colorful": "#3f51b5"
+		  "colorful": "#3B5C7F"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
@@ -35,14 +35,14 @@
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Application Development",
-	  "colorful": "#3f51b5"
+	  "colorful": "#3B5C7F"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Application Development",
 		  "gid": "Mobile Application Development: Die Studierenden werden in die Lage versetzt, Grundprinzipien der mobilen Anwendungsentwicklung zu verstehen und darauf aufbauend Aufgaben in unvertrauten Fachdomänen zu übernehmen. Darüber hinaus lernen sie eigenständig fundierte Entscheidungen bei der Lösung von anspruchsvollen anwendungs- bzw. wissenschaftich orientierten Projekten zu fällen. Dabei werden typische Grundprobleme wie Persistenz, Lebenszyklen, Kommunikation, Nebenläufigkeit, Sensorik, Location Based Services, Tests, Metriken, Debugging und begrenzte Ressourcen gelöst. Ferner werden einschlägige Design Pattern erlernt und deren Anwendung vermittelt. Die Studierenden erlernen dabei ihre eigenständigen Entscheidungen bei der Problemlösung klar zu begründen und Fachleuten gegenüber zu verteidigen.",
 		  "value": 40,
-		  "colorful": "#3f51b5"
+		  "colorful": "#3B5C7F"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
@@ -65,14 +65,14 @@
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Security",
-	  "colorful": "#3f51b5"
+	  "colorful": "#3B5C7F"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Security",
 		  "gid": "Die Studierenden erlernen ein grundlegendes Verständnis für die vielfältigen Problemstellungen des Fachgebietes Mobile Security. Sie sollen nach erfolgreichem Besuch der Veranstaltung in der Lage sein, die Datensicherheit von mobilen Anwendungen und Systemen einschätzen zu können. Die Kenntnis der unterschiedlichen Technologien soll die Teilnehmer dabei befähigen, ein geeignetes Sicherheitskonzept zu erarbeiten, Schwachstellen zu erkennen und zu diesen die entsprechen- den Gegenmaßnahmen zu ergreifen. Das Sicherheitskonzept soll dabei für potentielle Nutzer verständlich sein und einer kritischen Revision von Fachvertretern standhalten.",
 		  "value": 40,
-		  "colorful": "#3f51b5"
+		  "colorful": "#3B5C7F"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
@@ -95,14 +95,14 @@
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Mobile Usability",
-	  "colorful": "#3f51b5"
+	  "colorful": "#3B5C7F"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Mobile Usability",
 		  "gid": "Die Studierenden werden in die Lage versetzt, mobile Applikationen mit systematischen Methoden auf Ihre Gebrauchstauglichkeit hin zu untersuchen, um fundierte Beurteilungen abgeben zu können, die wiederum in einer weiteren Entwicklungsiterationen zu einer besseren User Experience führen. Darüber hinaus lernen sie Verfahren zum Design von mobilen Nut- zungsschnittstellen kennen, sodass sie nach dem erfolgreichen Besuch der Veranstaltung mit einfachen Mitteln Prototypen erstellen können, die als Grundlage für Gebrauchstauglichkeitsuntersuchun- gen dienen und später zu einer voll funktionsfähigen mobilen Applikation implementiert werden.",
 		  "value": 40,
-		  "colorful": "#3f51b5"
+		  "colorful": "#3B5C7F"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
@@ -245,14 +245,14 @@
     {
       "Studiengang": "Mobile Computing",
       "Vorlesung": "Masterarbeit + Kolloquium",
-	  "colorful": "#4ccc50"
+	  "colorful": "#0D3661"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "Masterarbeit + Kolloquium",
 		  "gid": "Professionelle und eigenständige Anwendung der im bisherigen Studium erworbenen Kenntnisse. Offene und kritische Anwendung und Beurteilung innovativer Technologien. Anwendung aktuelle Erkenntnisse aus Forschung und Entwicklung und Gewinnung neuerForschungs- und Entwicklungsergebnisse auf Basis dieser. Entwicklung nutzbringender Lösungen, Dokumentation und Präsentation derselben.",
 		  "value": 200,
-		  "colorful": "#4ccc50"
+		  "colorful": "#0D3661"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
@@ -275,14 +275,14 @@
 	{
       "Studiengang": "Mobile Computing",
       "Vorlesung": "WPF 1",
-	  "colorful": "#2196f3"
+	  "colorful": "#4ccc50"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "WPF 1",
-		  "gid": "Software Change and Configuration Management: Die Studierenden werden in die Lage versetzt, professionell Konzepte und angepasste Prozesse für Software Change Management und Software Configuration Management in einem komplexen Entwicklungsprozess wie der Entwicklung mobiler Applikationen zu erstellen und im Entwicklungsteam umzusetzen.",
+		  "gid": "Software Change and Configuration Management: Die Studierenden werden in die Lage versetzt, professionell Konzepte und angepasste Prozesse für Software Change Management und Software Configuration Management in einem komplexen Entwicklungsprozess wie der Entwicklung mobiler Applikationen zu erstellen und im Entwicklungsteam umzusetzen. Die Studenten werden dazu befähigt, Unterstützungswerkzeuge für Software Change-, Configuration und Version Control Systems zu bewerten, die optimalen Tools auszuwählen und damit sicher und effizient eine Lösung zur Unterstützung von Change Management und Produktlinienentwicklung zu erstellen.",
 		  "value": 9,
-		  "colorful": "#2196f3"
+		  "colorful": "#4ccc50"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
@@ -293,44 +293,44 @@
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "WPF 1",
-		  "gid": "Juristische Aspekte des Mobile Computing: Die Studierenden erhalten ein Bewusstsein für Rechtsfragen aus dem Umfeld des Mobile Computing und kennen mögliche rechtliche Implikationen ihres späteren Arbeitsumfeldes. Überdies können sie erste fundierte Beurteilungen hinsichtlich rechtlicher Fragestellungen abgeben.",
+		  "gid": "Juristische Aspekte des Mobile Computing: Die Studierenden erhalten ein Bewusstsein für Rechtsfragen aus dem Umfeld des Mobile Computing und kennen mögliche rechtliche Implikationen ihres späteren Arbeitsumfeldes. Überdies können sie erste fundierte Beurteilungen hinsichtlich rechtlicher Fragestellungen abgeben. Darüber hinaus lernen sie wichtige rechtliche Aspekte für das Berufsfeld des Informatikers an sich kennen.",
 		  "value": 8
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "WPF 1",
-		  "gid": "Software-Architektur: Schwerpunkt bildet das Software-Engineering für mobile Systeme als Backend-basierte Anwendungen in Kommunikation mit Services unter Berücksichtigung plattformspezifischer Konzepte sowie von Cross-Plattform Strategien und Technologien.",
+		  "gid": "Software-Architektur: Die Studierenden lernen die Vorteile der komponentenbasierten Softwareentwicklung kennen und können den Bezug zur ingenieurmäßigen Softwareentwicklung und zu Software-Architekturen herstellen. Schwerpunkt bildet das Software-Engineering für mobile Systeme als Backend-basierte Anwendungen in Kommunikation mit Services unter Berücksichtigung plattformspezifischer Konzepte sowie von Cross-Plattform Strategien und Technologien.",
 		  "value": 8
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "WPF 1",
-		  "gid": "Clouds und Service-Architekturen: Die Studierenden lernen das Rechnen sowie die Bildung von Erkenntnissen über verteilte Informations-Standorte kennen.",
+		  "gid": "Clouds und Service-Architekturen: Die Studierenden lernen das Rechnen sowie die Bildung von Erkenntnissen über verteilte Informations-Standorte kennen. Sie werden in die Lage versetzt, den modernen Begriff der Cloud einordnen und verwenden zu können, sowohl was die klassischen Ansätze der Virtualisierung von Computer-Infrastrukturleistungen betrifft als auch im Hinblick auf sich selbst organisierende, Diensteorientierte verteilte Informations-Strukturen, bis hin zur immer mehr an Bedeutung gewinnenden Cloud Intelligence.",
 		  "value": 9
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "WPF 1",
-		  "gid": "Technical English Conversation: The IT industry has developed technical English with acronyms and terms to simplify the description of a complex lexicon and lingo. A specific education within these acronyms and context is crucial for a computer science graduate today.",
+		  "gid": "Technical English Conversation: The IT industry has developed technical English with acronyms and terms to simplify the description of a complex lexicon and lingo. A specific education within these acronyms and context is crucial for a computer science graduate today. This high-intermediate course is designed to strengthen and improve students knowledge of Technical English. The course focuses on general and specific technical vocabulary and grammatical structures found primarily in the engineering and science studies and in the professional technical field of computer science.",
 		  "value": 9
 		},
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "WPF 1",
-		  "gid": "Team Management: Die Studierenden lernen sich und die anderen als Individuen sowie als Mitspieler(innen) in Teams besser kennen und einzuschätzen. Sie erhalten Werkzeuge an die Hand, wie sie als Teamleiter(in) die einzelnen Teammitglieder fördern und gleichermaßen fordern können.",
+		  "gid": "Team Management: Die Studierenden lernen sich und die anderen als Individuen sowie als Mitspieler(innen) in Teams besser kennen und einzuschätzen. Sie erhalten Werkzeuge an die Hand, wie sie als Teamleiter(in) die einzelnen Teammitglieder fördern und gleichermaßen fordern können, so dass die Gruppen an einem Strang zum Wohle der Zielerreichung ziehen. Hier erkennen sie auch die Wichtigkeit der Berücksichtigung der verschiedenen Phasen innerhalb der Teamentwicklung.",
 		  "value": 9
 		},
 	{
       "Studiengang": "Mobile Computing",
       "Vorlesung": "WPF 2",
-	  "colorful": "#2196f3"
+	  "colorful": "#4ccc50"
     },
 		{
 		  "Studiengang": "Mobile Computing",
 		  "Vorlesung": "WPF 2",
 		  "gid": "Software Change and Configuration Management: Die Studierenden werden in die Lage versetzt, professionell Konzepte und angepasste Prozesse für Software Change Management und Software Configuration Management in einem komplexen Entwicklungsprozess wie der Entwicklung mobiler Applikationen zu erstellen und im Entwicklungsteam umzusetzen. Die Studenten werden dazu befähigt, Unterstützungswerkzeuge für Software Change-, Configuration und Version Control Systems zu bewerten, die optimalen Tools auszuwählen und damit sicher und effizient eine Lösung zur Unterstützung von Change Management und Produktlinienentwicklung zu erstellen.",
 		  "value": 9,
-		  "colorful": "#2196f3"
+		  "colorful": "#4ccc50"
 		},
 		{
 		  "Studiengang": "Mobile Computing",
