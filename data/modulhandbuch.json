@@ -373,17 +373,17 @@
     },
     {
       "Studiengang": "Angewandte Informatik",
-      "Vorlesung": "Cell 2.1",
+      "Vorlesung": "Dummy Cell 2.1",
       "value": 100
     },
     {
       "Studiengang": "Angewandte Informatik",
-      "Vorlesung": "Cell 2.2",
+      "Vorlesung": "Dummy Cell 2.2",
       "value": 200
     },
     {
       "Studiengang": "Angewandte Informatik",
-      "Vorlesung": "Cell 2.3",
+      "Vorlesung": "Dummy Cell 2.3",
       "value": 100
     }
 ]

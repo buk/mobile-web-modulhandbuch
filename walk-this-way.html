@@ -9,15 +9,18 @@
 <script>
 
   var sample_data = [
-    {"year": 1991, "name":"Mobile Usability", "value": 15},
-    {"year": 1992, "name":"Mobie Application Development", "value": 20},
-    {"year": 1994, "name":"Mobile Security", "value": 30},
-    {"year": 1995, "name":"Mobile Web", "value": 60},
-    {"year": 1993, "name":"Projekt Systementwicklung 1", "value": 40},
-    {"year": 1994, "name":"Projekt Systementwicklung 2", "value": 60},
-    {"year": 1995, "name":"Seminar 1", "value": 10},
-    {"year": 1994, "name":"Seminar 2", "value": 35},
-    {"year": 1995, "name":"Wissenschaftliches Arbeiten", "value": 40}
+    {"year": 2014, "name":"Mobile Usability", "value": 6, "colorful": "#3B5C7F"},
+    {"year": 2014, "name":"Mobile Application Development", "value": 6, "colorful": "#3B5C7F"},
+    {"year": 2014, "name":"Projekt Systementwicklung", "value": 6, "colorful": "#673ab7"},
+    {"year": 2014, "name":"Wissenschaftliches Arbeiten", "value": 6, "colorful": "#ff9800"},
+	{"year": 2014, "name":"Wahlpflichtfach", "value": 6, "colorful": "#4ccc50"},
+    {"year": 2015, "name":"Mobile Security", "value": 6, "colorful": "#3B5C7F"},
+    {"year": 2015, "name":"Mobile Web", "value": 6, "colorful": "#3B5C7F"},
+    {"year": 2015, "name":"Projekt Systementwicklung", "value": 6, "colorful": "#673ab7"},
+    {"year": 2015, "name":"Seminar 1", "value": 3, "colorful": "#ff9800"},
+    {"year": 2015, "name":"Seminar 2", "value": 3, "colorful": "#ff9800"},
+	{"year": 2015, "name":"Wahlpflichtfach", "value": 6, "colorful": "#4ccc50"},
+	{"year": 2016, "name":"Masterarbeit + Kolloquium", "value": 30, "colorful": "#0D3661"}
   ]
 
   var visualization = d3plus.viz()
@@ -26,7 +29,8 @@
     .type("tree_map")
     .id("name")
     .size("value")
-    .time({"value": "year", "solo": 1994})
+	.color("colorful")
+    .time({"value": "year", "solo": 2014})
     .draw()
 
 </script>
