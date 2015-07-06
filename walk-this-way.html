@@ -1,6 +1,22 @@
 <!doctype html>
 <meta charset="utf-8">
 
+<style>
+
+  a#modulhandbuch {
+    background-color: #F4941E;
+    color: white;
+    display: block;
+    font-size: 24px;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+</style>
+
+
 <script src="http://www.d3plus.org/js/d3.js"></script>
 <script src="http://www.d3plus.org/js/d3plus.js"></script>
 
@@ -22,6 +38,8 @@
 	  {"year": 2015, "name":"Wahlpflichtfach", "value": 6, "colorful": "#4ccc50"},
 	  {"year": 2016, "name":"Masterarbeit + Kolloquium", "value": 30, "colorful": "#0D3661"}
   ]
+  
+  var htmlButton = "<a id='modulhandbuch' href='http://www.hs-worms.de/fileadmin/medien/FB_inf/Mobile_Computing_Master/2012-08-20_Modulhandbuch_MobCom.pdf' target='_blank'>Klicke hier um zum Modulhandbuch zu gelangen</a>"
 
   var visualization = d3plus.viz()
     .container("#viz")
@@ -31,6 +49,7 @@
     .size("value")
 	.color("colorful")
     .time({"value": "year", "solo": 2014})
+	.tooltip({"html": htmlButton})
     .draw()
 
 </script>
